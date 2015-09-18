@@ -62,6 +62,8 @@
   		1522 East Southern Avenue<br/>
   		Phoenix, Arizona 85040
   		</p>
+      <p><strong>Donate when you shop on Amazon.com!</strong><br/>
+      Whenever you make an online purchase on Amazon.com, a percentage of your purchase can be donated to BFCS! Just go to <a href="http://smile.amazon.com">smile.amazon.com</a> and you will have the same selections available to any Amazon.com shopper, but you can select Black Family and Child Services from a drop-down menu of non-profit agencies that will receive a percentage of your purchase at no additional cost to you. Thank you!</p>
 
   	</div>
   	<div class="large-5 columns left large-offset-1">
@@ -77,10 +79,10 @@
   		Phoenix, Arizona 85040
   		</p>
   		<p><strong>Charitable Tax Credits</strong><br/>
-  		As an Arizona resident, you may qualify to receive a Charitable Tax Credit from your state income tax for a contribution made to Black Family and Child Services.
+  		As an Arizona resident, you may qualify to receive a charitable tax credit from your state income tax for a contribution made to Black Family and Child Services.
   		</p>
-  		<p>A Charitable Tax Credit would reduce, dollar-for-dollar, the amount of state income tax owed in the same amount of your charitable donation to Black Family and Child Services.</p>
-  		<p>For more information, contact your personal tax advisor.
+  		<p>Known as the “Credit for Donations made to Qualifying Charitable Organizations” your donation would reduce, dollar-for-dollar, the amount of state income tax owed in the same amount of your charitable donation to Black Family and Child Services.</p>
+  		<p>For more information, <a href="https://www.azdor.gov/taxcredits/qualifyingcharitableorganizations.aspx">click here</a>, or contact your personal tax advisor.
 	  	</p>
   	</div>
   </div> 
