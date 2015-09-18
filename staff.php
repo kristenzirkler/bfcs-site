@@ -49,6 +49,18 @@
   		</ul>
   		</p>
   		<hr>
+      <h4>Oscar Soto, BBA</h4>
+      <h6>Chief Financial Officer</h6>
+      <p>Oscar is Chief Financial Officer for the agency and is responsible for the financial reporting function of Black Family and Child Services.</p>
+      <p>In his 30-year career in government  and non-profit accounting, he previously worked for several community social services agencies and went on to become the Budget Analyst for the largest school construction project in the nation in San Diego. Oscar began his career in accounting with the County of El Paso, Texas where he rose to the rank of Senior Investment Analyst after working there for 12 years.</p>
+      <p>A graduate of the University of Texas at El Paso, where he received a BBA in Business Administration, Oscar lives in Phoenix, Arizona with his wife and two children.</p>
+      <hr>
+      <h4>Cheryl Anderson</h4>
+      <h6>Parent Aide Program Manager</h6>
+      <p>Cheryl provides management and oversight of the Parent Aide Program and ensures services to the children and families involved with the Arizona Department of Child Safety (DCS) are of quality and in compliance with contracts requirements. She is committed to helping change lives and empowering children and families.</p>
+      <p>She had been working in the behavioral health field for more than 15 years before joining Black Family and Child Services in 2013.  Cheryl began her career in mental health as a case manager and rapid response clinician ensuring quality of care managing caseloads and service planning process for the SMI and homeless population.</p>
+      <p>After earning her masters in counseling, she worked has a certified rehabilitation specialist and certified master school counselor focusing on substance abuse, behavioral screening, assessment, and interventions.</p>
+      <hr>
   	</div>
   	<div class="large-5 columns left large-offset-1">
   	    <img src="img/staff/staff_tim_martinson.jpg" alt="Tim Martinson" class="th" style="float:left;margin-right:20px;width:133px;height=200px;" />
