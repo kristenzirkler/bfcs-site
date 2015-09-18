@@ -29,7 +29,10 @@
 
     <div class="row intro">
         <div class="large-5 columns">
-            ldkslafkd
+            <h4>Arizona Cardinals All-Pro Larry Fitzgerald Hosts Christmas Party for 250 Children at BFCS</h4>
+            <p>Two-time Pro Bowl wide receiver Larry Fitzgerald of the Arizona Cardinals made the 2008 holiday season a happier time of year for 250 children at the Black Family and Child Services office building in December. As host of a "Very Merry Larry Fitzgerald Christmas" party, Larry generously provided gifts and a fully-catered meal to the children and families in attendance. Also appearing were Cardinals Mascot, Big Red, and a magician who entertained the children until Larry magically appeared, signed autographs and posed for pictures with the kids.</p>
+            <iframe width="100%" height="900" src="Fitz_Slideshow" frameBorder="0"></iframe>
+ 
        </div>
 
         <div class="large-5 columns left large-offset-1">
@@ -61,8 +64,8 @@
               <td><em>Sarah after the process </em></td>
             </tr>
             <tr>
-              <td><img src="images/SarahColemanBefore.jpg" width="200" height="334"></td>
-              <td><img src="images/SarahColemanAfter.jpg" width="200" height="322"></td>
+              <td style="background-color:#fff"><img src="images/SarahColemanBefore.jpg" width="200" height="334"></td>
+              <td style="background-color:#fff"><img src="images/SarahColemanAfter.jpg" width="200" height="322"></td>
             </tr>
           </tbody></table>
 
