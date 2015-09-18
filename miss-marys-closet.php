@@ -84,7 +84,7 @@
 	  	</div>
 	  	<div class="row">
 	  		<div class="large-5 columns">
-	  			<p>Miss Mary's Closet, located on the BFCS campus at 1522 East Southern Avenue in Phoenix, provides free and gently used clothing for children from newborn 18 years of age. Any parent with a child enrolled in a BFCS program may complete a request for clothing.</p>
+	  			<p>Miss Mary's Closet, located on the BFCS campus at 1522 East Southern Avenue in Phoenix, provides free new clothing for children from newborn 18 years of age. Any parent with a child enrolled in a BFCS program may complete a request for clothing.</p>
 	  			<p>Cash donations are preferred to adequately keep clothing inventory current .</p>
 	  			<p>Children may choose two outfits from the clothing bank inventory when they qualify, based on their parents' income level.</p>
 	  		</div>
