@@ -1,0 +1,925 @@
+
+@font-face {
+    font-family: 'oswaldbold';
+    src: url('../fonts/oswald-bold-webfont.eot');
+    src: url('../fonts/oswald-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/oswald-bold-webfont.woff') format('woff'),
+         url('../fonts/oswald-bold-webfont.ttf') format('truetype'),
+         url('../fonts/oswald-bold-webfont.svg#oswaldbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'oswaldbook';
+    src: url('../fonts/oswald-regular-webfont.eot');
+    src: url('../fonts/oswald-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/oswald-regular-webfont.woff') format('woff'),
+         url('../fonts/oswald-regular-webfont.ttf') format('truetype'),
+         url('../fonts/oswald-regular-webfont.svg#oswaldbook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'oswaldlight';
+    src: url('../fonts/oswald-light-webfont.eot');
+    src: url('../fonts/oswald-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/oswald-light-webfont.woff') format('woff'),
+         url('../fonts/oswald-light-webfont.ttf') format('truetype'),
+         url('../fonts/oswald-light-webfont.svg#oswaldlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/******************
+GLOBAL
+******************/
+
+ul li {
+	list-style: none;
+}
+
+.intro ul li {
+	font-size: 14px;
+	line-height: 1.3;
+	margin-bottom: 1.25rem;
+	list-style-position: outside;
+	font-family: inherit; 
+	list-style: disc;
+}
+
+.padding-left {
+	padding-left: 3%;
+}
+.triangle-left {
+	width: 0;
+	height: 0;
+	border-top: 7px solid transparent;
+	border-right: 14px solid #fff;
+	border-bottom: 7px solid transparent;
+	float: left;
+	margin-left: 20%;
+	margin-top: 2%;  /*MW added to address arrows on mobile*/
+}
+.triangle-right {
+	width: 0;
+	height: 0;
+	border-top: 7px solid transparent;
+	border-left: 14px solid #fff;
+	border-bottom: 7px solid transparent;
+	float: right;
+	margin-right: 20%;
+	margin-top: 2%; /*MW added to address arrows on mobile*/
+
+}
+
+@media screen and (max-width: 70em) {
+	.padding-left {
+		padding-left: 0;
+	}
+}
+
+/******************
+CORE PURPLE
+******************/
+
+#core-purple header {
+	background: #986899;
+}
+#core-purple header a:hover {
+	color: #341c34;
+}
+#core-purple h2 {	
+	text-transform: uppercase;
+	font-size: 25px;
+	font-family: 'oswaldbold';
+	letter-spacing: 1px;
+	color: #fff;
+	padding: 5px 0 5px 0;
+}
+#core-purple h4 {
+	font-size: 30px;
+	font-family: 'oswaldlight';
+	margin-bottom: 0;
+}
+#core-purple h5 {
+	font-size: 38px;
+	font-family: 'oswaldbold';
+	text-transform: uppercase;
+	margin-top: 0;
+	color: #5d2f5e;
+}
+#core-purple footer {
+	background: #341c34;	
+}
+#core-purple footer a:hover {
+	color: #986899;
+}
+#core-purple footer .large-6 a {
+	background: #986899;
+}
+#core-purple footer .large-6 a:hover {
+	color: #fff;
+}
+#core-purple .seek-or-help .large-6 {
+	background: #341c34;
+}
+#core-purple .donate-button  {
+	background: #341c34;
+	padding: 3% 0 2% 0;
+	height: 107px;
+}
+#core-purple .donate h3 {
+	color: #5d2f5e;
+}
+#core-purple .donate-button h3 {
+	color: #fff;
+}
+#core-purple p a {
+	color: #986899;
+	text-decoration: underline;
+}
+
+/******************
+AFTER SCHOOL PROGRAMS
+******************/
+
+#service-after-school-programs header {
+	background: #3d5f1c;
+}
+#service-after-school-programs footer {
+	background: #3d5f1c;	
+}
+#service-after-school-programs footer li a {
+	color: #bdd5a4;
+}
+#service-after-school-programs footer a:hover {
+	color: #fff;
+}
+#service-after-school-programs footer address, #service-after-school-programs footer p, #service-after-school-programs footer h6 {
+	color: #bdd5a4;
+}
+#service-after-school-programs footer .large-6 a {
+	background: #8ec459;
+}
+#service-after-school-programs .service-choose .service-choose-button:hover {
+	background: #3d5f1c;
+	cursor: pointer;
+}
+#service-after-school-programs .service-choose .service-choose-button:hover h2 {
+	color: #fff;
+}
+#service-after-school-programs .service-choose .service-choose-button:hover p {
+	color: #fff;
+}
+#service-after-school-programs .service-choose {
+	background: #8ec459;
+}
+#service-after-school-programs .service-choose h2 {
+	color: #fff;
+}
+#service-after-school-programs .service-choose p {
+	color: #fff;
+}
+#service-after-school-programs h3 {
+	color: #8ec459;
+}
+#service-after-school-programs em {
+	font-family: arial, sans-serif;
+	font-weight: bold;
+	color: #3d5f1c;
+}
+
+
+/******************
+ADOPTION
+******************/
+
+#adoption header {
+	background: #1b3957;
+}
+#adoption footer {
+	background: #1b3957;	
+}
+#adoption footer li a {
+	color: #b6c0cb;
+}
+#adoption footer address, #adoption footer p, #adoption footer h6 {
+	color: #b6c0cb;
+}
+#adoption footer a:hover {
+	color: #fff;
+}
+#adoption footer .large-6 a {
+	background: #b6c0cb;
+}
+#adoption .service-choose .service-choose-button:hover {
+	background: #1b3957;
+	cursor: pointer;
+}
+#adoption .service-choose .service-choose-button:hover h2 {
+	color: #fff;
+}
+#adoption .service-choose .service-choose-button:hover p {
+	color: #fff;
+}
+#adoption .service-choose {
+	background: #b6c0cb;
+}
+#adoption .service-choose h2 {
+	color: #fff;
+}
+#adoption .service-choose p {
+	color: #fff;
+}
+#adoption h3 {
+	color: #1b3957;
+}
+#adoption em {
+	font-family: arial, sans-serif;
+	font-weight: bold;
+	color: #1b3957;
+}
+
+/******************
+FOSTER CARE
+******************/
+
+#foster-care header {
+	background: #175448;
+}
+#foster-care footer {
+	background: #175448;	
+}
+#foster-care footer .large-6 a {
+	background: #60c7b3;
+}
+#foster-care .service-choose .service-choose-button:hover {
+	background: #175448;
+	cursor: pointer;
+}
+#foster-care .service-choose .service-choose-button:hover h2 {
+	color: #fff;
+}
+#foster-care .service-choose .service-choose-button:hover p {
+	color: #fff;
+}
+#foster-care .service-choose {
+	background: #60c7b3;
+}
+#foster-care .service-choose h2 {
+	color: #175448;
+}
+#foster-care .service-choose p {
+	color: #175448;
+}
+#foster-care h3 {
+	color: #175448;
+}
+#foster-care em {
+	color: #175448;
+	font-family: arial, sans-serif;
+	font-weight: bold;
+}
+
+/******************
+THERAPUDIC FOSTER CARE
+******************/
+
+#therapeutic-foster-care header {
+	background: #53b09f;
+}
+#therapeutic-foster-care footer {
+	background: #53b09f;	
+}
+#therapeutic-foster-care footer .large-6 a {
+	background: #b0ded6;
+}
+#therapeutic-foster-care .service-choose .service-choose-button:hover {
+	background: #53b09f;
+	cursor: pointer;
+}
+#therapeutic-foster-care .service-choose .service-choose-button:hover h2 {
+	color: #fff;
+}
+#therapeutic-foster-care .service-choose .service-choose-button:hover p {
+	color: #fff;
+}
+#therapeutic-foster-care .service-choose {
+	background: #b0ded6;
+}
+#therapeutic-foster-care .service-choose h2 {
+	color: #53b09f;
+}
+#therapeutic-foster-care .service-choose p {
+	color: #53b09f;
+}
+#therapeutic-foster-care h3 {
+	color: #53b09f;
+}
+#therapeutic-foster-care em {
+	color: #53b09f;
+	font-family: arial, sans-serif;
+	font-weight: bold;
+}
+
+/******************
+BEHAVIORAL HEALTH
+******************/
+
+#behavioral-health header {
+	background: #457cd0;
+}
+#behavioral-health footer {
+	background: #457cd0;	
+}
+#behavioral-health footer .large-6 a {
+	background: #b5cae9;
+}
+#behavioral-health .service-choose .service-choose-button:hover {
+	background: #457cd0;
+	cursor: pointer;
+}
+#behavioral-health .service-choose .service-choose-button:hover h2 {
+	color: #fff;
+}
+#behavioral-health .service-choose .service-choose-button:hover p {
+	color: #fff;
+}
+#behavioral-health .service-choose {
+	background: #b5cae9;
+}
+#behavioral-health .service-choose h2 {
+	color: #457cd0;
+}
+#behavioral-health .service-choose p {
+	color: #457cd0;
+}
+#behavioral-health h3 {
+	color: #457cd0;
+}
+#behavioral-health em {
+	color: #457cd0;
+	font-family: arial, sans-serif;
+	font-weight: bold;
+}
+
+/******************
+SUBSTANCE ABUSE
+******************/
+
+#substance-abuse header {
+	background: #784530;
+}
+#substance-abuse footer {
+	background: #784530;	
+}
+#substance-abuse footer .large-6 a {
+	background: #bfafa9;
+}
+#substance-abuse .service-choose .service-choose-button:hover {
+	background: #784530;
+	cursor: pointer;
+}
+#substance-abuse .service-choose .service-choose-button:hover h2 {
+	color: #fff;
+}
+#substance-abuse .service-choose .service-choose-button:hover p {
+	color: #fff;
+}
+#substance-abuse .service-choose {
+	background: #bfafa9;
+}
+#substance-abuse .service-choose h2 {
+	color: #784530;
+}
+#substance-abuse .service-choose p {
+	color: #784530;
+}
+#substance-abuse h3 {
+	color: #784530;
+}
+#substance-abuse em {
+	color: #784530;
+	font-family: arial, sans-serif;
+	font-weight: bold;
+}
+
+/******************
+FAMILY ENHANCEMENT
+******************/
+
+#family-enhancement header {
+	background: #9157ba;
+}
+#family-enhancement footer {
+	background: #9157ba;	
+}
+#family-enhancement footer .large-6 a {
+	background: #b4a3c0;
+}
+#family-enhancement .service-choose .service-choose-button:hover {
+	background: #9258ba;
+	cursor: pointer;
+}
+#family-enhancement .service-choose .service-choose-button:hover h2 {
+	color: #fff;
+}
+#family-enhancement .service-choose .service-choose-button:hover p {
+	color: #fff;
+}
+#family-enhancement .service-choose {
+	background: #d8c9e2;
+}
+#family-enhancement .service-choose h2 {
+	color: #9157ba;
+}
+#family-enhancement .service-choose p {
+	color: #9157ba;
+}
+#family-enhancement h3 {
+	color: #9157ba;
+}
+#family-enhancement em {
+	color: #9157ba;
+	font-family: arial, sans-serif;
+	font-weight: bold;
+}
+
+/******************
+MISS MARY'S CLOSET
+******************/
+
+#miss-marys-closet header {
+	background: #b13f97;
+}
+#miss-marys-closet footer {
+	background: #b13f97;	
+}
+#miss-marys-closet footer .large-6 a {
+	background: #e0bdd8;
+}
+#miss-marys-closet .service-choose .service-choose-button:hover {
+	background: #b13f97;
+	cursor: pointer;
+}
+#miss-marys-closet .service-choose .service-choose-button:hover h2 {
+	color: #fff;
+}
+#miss-marys-closet .service-choose .service-choose-button:hover p {
+	color: #fff;
+}
+#miss-marys-closet .service-choose {
+	background: #e0bdd8;
+}
+#miss-marys-closet .service-choose h2 {
+	color: #b13f97;
+}
+#miss-marys-closet .service-choose p {
+	color: #b13f97;
+}
+#miss-marys-closet h3 {
+	color: #b13f97;
+}
+#miss-marys-closet em {
+	color: #b13f97;
+	font-family: arial, sans-serif;
+	font-weight: bold;
+}
+
+/******************
+FOOD AND NUTRITION
+******************/
+
+#food-nutrition header {
+	background: #90292a;
+}
+#food-nutrition footer {
+	background: #90292a;	
+}
+#food-nutrition footer .large-6 a {
+	background: #caadad;
+}
+#food-nutrition .service-choose .service-choose-button:hover {
+	background: #90292a;
+	cursor: pointer;
+}
+#food-nutrition .service-choose .service-choose-button:hover h2 {
+	color: #fff;
+}
+#food-nutrition .service-choose .service-choose-button:hover p {
+	color: #fff;
+}
+#food-nutrition .service-choose {
+	background: #caadad;
+}
+#food-nutrition .service-choose h2 {
+	color: #90292a;
+}
+#food-nutrition .service-choose p {
+	color: #90292a;
+}
+#food-nutrition h3 {
+	color: #90292a;
+}
+#food-nutrition em {
+	color: #90292a;
+	font-family: arial, sans-serif;
+	font-weight: bold;
+}
+
+/******************
+DUI PROGRAMS
+******************/
+
+#dui-programs header {
+	background: #781d31;
+}
+#dui-programs footer {
+	background: #781d31;	
+}
+#dui-programs footer .large-6 a {
+	background: #cfbcc0;
+}
+#dui-programs .service-choose .service-choose-button:hover {
+	background: #781d31;
+	cursor: pointer;
+}
+#dui-programs .service-choose .service-choose-button:hover h2 {
+	color: #fff;
+}
+#dui-programs .service-choose .service-choose-button:hover p {
+	color: #fff;
+}
+#dui-programs .service-choose {
+	background: #cfbcc0;
+}
+#dui-programs .service-choose h2 {
+	color: #781d31;
+}
+#dui-programs .service-choose p {
+	color: #781d31;
+}
+#dui-programs h3 {
+	color: #781d31;
+}
+#dui-programs em {
+	color: #781d31;
+	font-family: arial, sans-serif;
+	font-weight: bold;
+}
+
+/******************
+GLOBAL TYPOGRAPHY
+******************/
+
+body {
+	font-size: 100%;
+}
+p {
+	font-family: arial, sans-serif;
+	font-size: 14px;
+}
+.primary-nav a {
+	font-family: 'oswaldlight';
+	font-size: 14px;
+}
+.secondary-nav {
+	font-family: 'oswaldbold';
+}
+.seek-or-help .large-6 p {
+	font-family: 'oswaldlight';
+	font-size: 14px;
+}
+.video-title {
+	font-family: 'oswaldlight';
+}
+
+/******************
+NAVIGATION
+******************/
+.logo {
+	width: 237px;
+	height: 52px;
+	display: block;
+	position: absolute;
+	left: 50%;
+	margin: -17px 0 0 -120px;
+}
+
+.top-nav-wrap {
+	padding-top: 1%;
+}
+.primary-nav a {
+	color: #fff;
+}
+.secondary-nav li a {
+	color: #000;
+	text-transform: uppercase;
+	font-size: 14px;
+}
+.primary-nav ul, .secondary-nav ul {
+	display: table;
+	width: 100%;
+	text-align: center;
+	overflow: hidden;
+}
+.primary-nav li {
+	float: left;
+	display: table-cell;
+	padding: 0 1%;
+}
+.secondary-nav ul {
+	margin: 3% auto;
+	text-align: center;
+}
+.secondary-nav li {
+	display: inline-block;
+	padding: 0 2%
+}
+.secondary-nav li:nth-of-type(4) {
+	margin-left: 250px;
+} 
+
+@media screen and (max-width: 70em) {
+	.top-nav-wrap {
+		padding-bottom: 1%;
+	}
+	.logo {
+		width: 237px;
+		height: 52px;
+		display: block;
+		margin: 2% auto 0 auto;
+		position: inherit;		
+	}
+}
+
+@media screen and (max-width: 70em) {
+	.secondary-nav li:nth-of-type(4) {
+		margin-left: 0;		
+	}   
+	.secondary-nav li {
+		margin-bottom: 1%;
+	}
+	.secondary-nav li a {
+		display: block;
+		padding: 2% 0;
+	}
+	.secondary-nav li a:hover {
+		background: #ccc;
+	}
+}
+
+/************************
+HOME PAGE - SEEK OR HELP 
+************************/
+
+.seek-or-help .large-6 {
+	color: #fff;
+	width: 48%;
+	padding: 1% 3% 0 3%;
+}
+.seek-or-help a {
+	color: #fff;
+}
+.seek-or-help h2 {
+	margin: 1% 0 0 0;
+}
+.seek-or-help .large-6:first-of-type p {
+	margin-left: 30%;
+}
+.seek-or-help .large-6:last-of-type p {
+	margin-right: 30%;
+}
+.seek-or-help {
+	position: relative;
+}
+.donate-cta-purple {
+	text-align: center;
+	color: #fff;
+	padding: 15px;
+	display: block;
+	text-transform: uppercase;
+	font-size: 22px;
+	font-family: 'oswaldbold';
+	letter-spacing: 1px;
+	background: #341c34;
+	margin-bottom: 5%;
+}
+.donate-cta-purple:hover {
+	color: #fff;
+}
+.core-purple .donate-cta:hover {
+	color: #fff;
+	background: #f0bff1;
+}
+.donate-cta-black {
+	text-align: center;
+	color: #fff;
+	padding: 15px;
+	display: block;
+	text-transform: uppercase;
+	font-size: 22px;
+	font-family: 'oswaldbold';
+	letter-spacing: 1px;
+	background: #000;
+}
+.donate-cta-black:hover {
+	color: #fff;
+	background: #a9aba1;
+}
+
+
+@media only screen and (max-width: 60em)  {
+	.seek-or-help .large-6 {
+		position: inherit;
+		width: 100%;
+		margin-bottom: 2%;
+	}
+	.seek-or-help img {
+		margin-bottom: 2%;
+	}
+	.seek-or-help .large-6:first-of-type p, .seek-or-help .large-6:last-of-type p {
+		margin: 0 0 4% 0;
+	}
+	.seek-or-help .large-6 .triangle-left {
+		margin-left: 0;
+	}
+	.seek-or-help .large-6 .triangle-right {
+		margin-right: 0;
+	}
+}
+
+/******************
+HOME PAGE - DONATE
+******************/
+
+.donate {
+	border: 1px solid #333;
+	padding: 0;
+	margin-top: 4%;
+	margin-bottom: 4%;
+	overflow: hidden;
+}
+.donate .large-5 {
+	padding-left: 2%;
+}
+.donate .triangle-right {
+	margin-top: 15%;
+}
+.donate h3 {
+	text-transform: uppercase;
+	font-size: 20px;
+	font-family: 'oswaldbold';
+	padding-top: 2%;
+}
+.donate p {
+	font-size: 14px;
+	font-family: 'oswaldlight';
+	margin-bottom: 0;
+}
+.donate .large-3:last-of-type h3 {
+	color: #fff;
+	font-size: 18px;
+	padding-left: 5%;
+}
+@media screen and (max-width: 68em) {
+	.donate {
+		border: none;
+	}
+	.donate-button {
+		margin-top: 3%;
+	}
+}
+
+/******************
+GLOBAL FOOTER
+******************/
+
+footer {
+	padding-top: 5%;
+	padding-bottom: 3%;
+	padding-left: 1em;
+	padding-right: 1em;
+	color: #eaeaea;
+}
+footer h6 {
+	/*color: #9d9e95; adjustment away from grey look to off-white */ 
+ 	color: #eaeaea;
+	font-size: 17px;
+	font-family: 'oswaldlight';
+}
+footer p {
+	/*color: #9d9e95;*/
+	font-family: 'oswaldlight';
+}
+footer ul {
+	margin: 0;
+}
+footer ul li a {
+	font-size: 14px;
+	font-family: 'oswaldlight';
+	/*color: #9d9e95; adjustment away from grey look to off-white */ 
+ 	color: #eaeaea;
+}
+footer .large-6 a {
+	color: #fff;
+	text-transform: uppercase;
+	font-family: 'oswaldbold';
+	font-size: 26px;
+	display: block;
+	padding: 3% 4%;
+	text-align: center;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	width: 95%;
+}
+footer address {
+	/*color: #9d9e95;*/
+	font-size: 14px;
+	font-family: 'oswaldlight';
+	font-style: normal;
+	margin-top: 5%;
+}
+footer .reservation p {
+	padding-top: 3%;
+}
+footer .copyright {
+	margin-top: 3%;
+	padding-left: 15px;
+}
+
+@media only screen and (max-width: 40em)  {
+	footer {
+		padding-left: 5%;
+		padding-right: 5%;
+	}
+	footer li {
+		width: 100%;
+		text-align: center;
+	}
+	footer h6 {
+		text-align: center;
+	}
+	footer address {
+		margin: 3% 0;
+	}
+}
+
+/*********************
+SERVICE CHOOSE GLOBAL
+*********************/
+
+.service-choose {
+	margin-bottom: 2%;
+}
+.service-choose-button {
+	padding: 3% 4% 1% 5%;*/
+
+}
+.service-choose .service-choose-button h2 {
+	text-transform: uppercase;
+	font-size: 25px;
+	font-family: 'oswaldbold';
+	margin-top: 0;
+}
+.service-choose .service-choose-button h2 span {
+	padding-left: 5%;
+}
+.service-choose .service-choose-button p {
+	font-size: 14px;
+	font-family: 'oswaldlight';
+}
+
+.service-video {
+	padding: 15px;
+}
+/*******************
+SERVICE INFO GLOBAL
+*******************/
+
+.service-info h3 {
+	font-size: 43px;
+	text-transform: uppercase;
+	font-family: 'oswaldbold';
+}
+.service-info h4 {
+	font-size: 30px;
+	font-family: 'oswaldlight';
+}
+.service-info  {
+	font-family: arial, sans-serif;
+}
+.service-info p {
+	font-size: 14px;
+}
+.service-info li {
+	margin-bottom: 2%;
+	font-size: 14px;
+	list-style: disc;
+}
+.service-info em {
+	font-style: normal;
+	font-family: 'oswaldbold';
+}

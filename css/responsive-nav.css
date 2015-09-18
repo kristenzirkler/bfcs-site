@@ -1,0 +1,121 @@
+/*! responsive-nav.js 1.0.32 by @viljamis */
+@media only screen and (max-width: 70em) {
+	.nav-collapse ul {
+	  margin: 0;
+	  padding: 0;
+	  width: 100%;
+	  display: block;
+	  list-style: none;
+	}
+	.nav-collapse li {
+	  width: 100%;
+	  display: block;
+	}
+	.nav-collapse li:last-of-type {
+		margin-bottom: 5%;
+	}
+	.nav-collapse li a {
+		font-size: 18px;
+		display: block;
+		padding: 2% 0;
+	}
+	#core-purple .nav-collapse li a:hover {
+		background: #341c34;
+		color: #fff;
+	}
+	
+	/* #core-black .nav-collapse li a:hover {
+		background: #a9aba1;
+		color: #fff;
+	}
+	#service-black .nav-collapse li a:hover {
+		background: #a9aba1;
+		color: #fff;
+	}*/
+		
+	#adoption .nav-collapse li a:hover {
+		background: #b6c0cb;
+		color: #fff;
+	}	
+	#service-after-school-programs .nav-collapse li a:hover {
+		background: #3d5f1c;
+		color: #fff;
+	}	
+	#foster-care .nav-collapse li a:hover {
+		background: #6accba;
+		color: #fff;
+	}	
+	#therapeutic-foster-care .nav-collapse li a:hover {
+		background: #6accba;
+		color: #fff;
+	}		
+	#behavioral-health .nav-collapse li a:hover {
+		background: #b5cae9;
+		color: #fff;
+	}	
+	#substance-abuse .nav-collapse li a:hover {
+		background: #bfafa9;
+		color: #fff;
+	}	
+	#family-enhancement .nav-collapse li a:hover {
+		background: #b4a3c0;
+		color: #fff;
+	}	
+	#miss-marys-closet .nav-collapse li a:hover {
+		background: #e0bdd8;
+		color: #fff;
+	}		
+	#food-nutrition .nav-collapse li a:hover {
+		background: #caadad;
+		color: #fff;
+	}		
+	#dui-programs .nav-collapse li a:hover {
+		background: #cfbcc0;
+		color: #fff;
+	}	
+}
+
+.js .nav-collapse {
+  clip: rect(0 0 0 0);
+  max-height: 0;
+  position: absolute;
+  display: block;
+  overflow: hidden;
+  zoom: 1;
+}
+
+.nav-collapse.opened {
+  max-height: 9999px;
+}
+
+.disable-pointer-events {
+  pointer-events: none !important;
+}
+
+.nav-toggle {
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+  color: #fff;
+  font-size: 24px;
+  margin-left: 3%;
+}
+.nav-toggle:hover {
+	color: #fff;;
+}
+
+@media screen and (min-width: 70em) {
+  .js .nav-collapse {
+    position: relative;
+  }
+  .js .nav-collapse.closed {
+    max-height: none;
+  }
+  .nav-toggle {
+    display: none;
+  }
+}
