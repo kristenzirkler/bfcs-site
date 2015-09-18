@@ -48,6 +48,17 @@
             <p>Black Family and Child Services of Arizona (BFCS) is a private, non-profit 501(c)(3) community-based social service agency in metropolitan Phoenix.</p>
 
             <p>Serving children and families of all ethnic backgrounds since 1984, BFCS is licensed by the State of Arizona to provide Behavioral Health Services and the agency holds a Child Welfare Placing License to provide adoption and foster care services.</p>
+        
+            <h7>BFCS is committed to Quality of Care</h7>
+
+            <p>Black Family and Child Services is committed to ensuring that high quality, appropriate care and services are provided to our client population through the continuous activities and operation of its Quality Assurance and Improvement Program (QA/I).</p>
+
+            <p>The Quality Assurance process ensures that services provided meet client needs and are delivered in compliance with standards required by licensing agencies, funding sources and established professional practices.</p>
+
+            <p>The QA/I Program monitors and analyzes agency performance across all programs and levels of service delivery, tracks and analyzes trends and patterns found in utilization and satisfaction data, and develops initiatives for program improvement and staff development and training.</p>
+
+            <p>Continuous quality of care and improvement is an ongoing guide and goal for all service programs.</p>
+
         </div>
     </div><!--END ROW-->
     <?php include ("inc/footer.html"); ?><?php include ("inc/js.html"); ?>
