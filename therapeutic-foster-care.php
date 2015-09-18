@@ -23,7 +23,7 @@
    	  <div class="row service-info hide-for-large-up">
 	  		<div class="large-6 columns">
 	  			<h3>Therapeutic Foster Care</h3>
-	  			<h4>Need a sub-headline</h4>
+	  			<h4>Advanced training available to foster parents of children and teens with intensive emotional or behavioral issues</h4>
 	  		</div>
 	  </div>
   
@@ -71,7 +71,7 @@
 	  	<div class="row">
 	  		<div class="large-6 columns show-for-large-up">
 	  			<h3>Therapeutic Foster Care</h3>
-	  			<h4>Need a sub-headline</h4>
+	  			<h4>Advanced training available to foster parents of children and teens with intensive emotional or behavioral issues</h4>
 	  		</div>
 	  		<div class="large-3 small-6 columns service-video">
 	  			<a class="padding-left" href="#" data-reveal-id="modalOne"><img src="img/placeholder-four.jpg" alt=""></a>
@@ -84,22 +84,19 @@
 	  	</div>
 	  	<div class="row">
 	  		<div class="large-5 columns">
-	  			<p>Therapeutic Foster Care (TFC) is a program of coordinated, community-based services for children or adolescents with emotional and/or behavioral disabilities.</p>
-	  			<p>It is an alternative to institutional, residential treatment or group care placements, or is an option to return children already in such placements to natural settings sooner than otherwise would be possible.</p>
-	  			<p>This level of care is for children and adolescents who require more intensive treatment and supervision than is usually found in a traditional or group foster care placement.</p>
-	  			<p>Children are placed in family home settings with specially trained foster families. Effective interventions for these youths are multidimensional and implemented in the home, at school and in the community.</p>
-	  			<p>Treatment strategies include behavioral parent training for Therapeutic Foster Care parents, skills training for youths, family support and therapy, school based interventions and other academic support, psychiatric and psychological consultation and medication management as needed.</p>
+	  			<p>Therapeutic Foster Care is a specialized program of foster parents with advanced training to provide care and clinically based behavioral treatment to children or adolescents with intensive emotional or behavioral needs.</p>
+	  			<p>Therapeutic foster care is an alternative to institutional, residential treatment or group home care placements. The level of care provided in these homes is for children and adolescents who require more intensive treatment and supervision than is usually found in a traditional foster home or group home.</p>
+	  			<p>Children are placed in family home settings with foster families specifically trained to treatment and manage children with severe behavioral issues. Effective interventions for these youths are multidimensional and implemented in the home, at school and in the community.</p>
+	  			<p>Treatment strategies include advanced behavioral parent training for Therapeutic Foster Care parents, behavioral modification skills for youths, family support, therapy, school based interventions and other academic support, psychiatric and psychological consultation and medication management ,as needed.</p>
+	  			<p>Services and support provided by the program are responsive to cultural, racial and ethnic differences of the children and families served.</p>
 	  		</div>
 	  		<div class="large-5 columns">
-	  			<p>In addition, case management, crisis intervention and evaluation are provided as needed.</p>
-	  			<p>Services and support provided by the program will be responsive to cultural, racial and ethnic differences of the children and families served.</p>
 	  			<p><em>BFCS Therapeutic Foster Care Services provide a comprehensive program that includes:</em></p>
 	  				<ul>
-		  				<li>Orientation - held monthly</li>
+		  				<li>A Foster Care Orientation</li>
 		  				<li>Pre-services training classes</li>
 		  				<li>Advanced professional training</li>
-		  				<li>Monthly Support Groups for TFC parents</li>
-		  				<li>Peer Support Groups for TFC children</li>
+		  				<li>Monthly Foster Parent Support Groups</li>
 	  				</ul>
 	  		</div>	  		
 	  	</div>	  	
