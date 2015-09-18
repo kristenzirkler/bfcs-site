@@ -30,7 +30,7 @@
     <div class="row intro">
         <div class="large-5 columns">
 
-            <h4 style="margin-bottom:-20px;"><a href="after-school-programs.php" style="color:#986899;">After School Programs</a></h4><br>
+            <h4 style="margin-bottom:-20px;"><a href="after-school-program.php" style="color:#986899;">After School Programs</a></h4><br>
             <em>Need a sub-headline here.</em>
             <hr>
             <h4 style="margin-bottom:-20px;"><a href="adoption.php" style="color:#986899;">Adoption</a></h4><br>

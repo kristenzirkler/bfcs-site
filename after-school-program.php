@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>After School Programs - Black Family and Child Services of Arizona</title>
+    <title>After School Program - Black Family and Child Services of Arizona</title>
     <link rel="stylesheet" href="css/foundation.css">
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="css/responsive-nav.css">
@@ -22,7 +22,7 @@
   
   	  <div class="row service-info hide-for-large-up">
 	  		<div class="large-6 columns">
-	  			<h3>After School Programs</h3>
+	  			<h3>After School Program</h3>
 	  			<h4>Need a sub-headline here</h4>
 	  		</div>
 	  </div>
@@ -70,8 +70,8 @@
 	  <section class="service-info">
 	  	<div class="row">
 	  		<div class="large-6 columns show-for-large-up">
-	  			<h3>After School Programs</h3>
-	  			<h4>Need a sub-headline here</h4>
+	  			<h3>Right Track After School Program</h3>
+	  			<h4>A safe, supervised program for children between the ages of 5 and 13</h4>
 	  		</div>
 	  		<div class="large-3 small-6 columns service-video">
 	  			<a class="padding-left" href="#" data-reveal-id="modalOne"><img src="img/placeholder-four.jpg" alt=""></a>
@@ -84,41 +84,21 @@
 	  	</div>
 	  	<div class="row">
 	  		<div class="large-5 columns">
-	  			<p>Need program copy</p>
-	  				<!--<ul>
-		  				<li>Adoption of children in the Arizona Department of 
-		  				Economic Security System (DES)</li>
-		  				<li>Private Adoption</li>
-		  				<li>Grandparent, Step-parent and Relative Adoption</li>
-		  				<li>Foster/Adopt Conversions</li>
-	  				</ul>
-	  			<p><em>BFCS Adoption Services provide a comprehensive program that includes:</em></p>	
-	  				<ul>
-		  				<li>Orientation – held monthly</li>
-		  				<li>Pre-service training classes</li>
-		  				<li> Foster-adopt program aimed at increasing the number of 
-		  				children in foster care who will be formally adopted by 
-		  				their foster families.</li>
-		  				<li>Support groups for parents</li>
-		  				<li>Advanced Training</li>
-	  				</ul>-->
+	  			<p>The Right Track After School Program provides elementary and middle school children with a safe, supervised environment during after school hours between 3 p.m. and 6:30 p.m. on weekdays, and a range of activities that integrate  educational support with character and social development.</p>
+	  			<p>As community-based resources for supervised after school activity for children continue to diminish, this essential program provides a variety of benefits to student participants and their families, including: improved school achievement and attendance, stronger motivation to learn and higher levels of self-esteem.</p>
+	  			<p>The Right Track After School program is free and was developed to provide support to working families that need assistance with supervising, tutoring and mentoring their children.</p>
 	  		</div>
 	  		<div class="large-5 columns">
-	  			<p>Need program copy
-	  			<!--<em>Adoption Requirements</em></p>
+	  			<p>Children enrolled in the program receive:
 	  				<ul>
-		  				<li>You must be over 18 years of age</li>
-		  				<li>You can be either married or single</li>
-		  				<li> Persons in your home 18 years of age or older 
-		  				must be fingerprinted and submit a current physician’s report</li>
-		  				<li>Parents must attend pre-adoption training classes</li>
+		  				<li>Homework assistance</li>
+		  				<li>Academic enrichment and tutoring</li>
+		  				<li>Supervised recreation</li>
+		  				<li>Character and social skills development</li>
+		  				<li>Drug and violence prevention education</li>
+		  				<li>Snacks and a full home-cooked dinner meal daily</li>
 	  				</ul>
-	  			<p><em>You may qualify to adopt even if:</em></p>	
-	  				<ul>
-		  				<li>You do not own your own home</li>
-		  				<li>You do not have a separate room for your adoptive child</li>
-		  				<li>Your income is modest and you do not have a bank account</li>
-	  				</ul>-->
+	  			Your financial contribution will make it possible to continue to provide this essential program. To donate, <a href="donate.php">click here</a>.</p>
 	  		</div>	  		
 	  	</div>	  	
 	  </section>
