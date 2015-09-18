@@ -101,10 +101,11 @@
 		  				<li>Service coordination with schools, and other child serving agencies and organizations</li>
 	  				</ul>
   				<p>Our professional, culturally competent staff has a broad range of educational backgrounds and professional experiences in helping children and families resolve family conflicts, enhance family functioning, and manage crises and challenges to help children to perform successfully in school and become productive adults.</p>
-  				<p><em>For additional information or to make an appointment call (602) 243-1773. Adult Outpatient Counseling</em></p>
+  				<p><em>For additional information or to make an appointment call<br/>(602) 243-1773</em></p>
 	  		</div>
 	  		<div class="large-5 columns">
-	  			<p><em>The BFCS Adult Outpatient Counseling Program</em></p>
+	  			<p><em>Adult Outpatient Counseling</em><br/>
+	  			<em>The BFCS Adult Outpatient Counseling Program</em></p>
 	  			<p>BFCS Adult Outpatient Counseling services are available for individuals over 18 years of age, couples and families dealing with unexpected challenges, or traumatic events, coping with personal and interpersonal conflicts, addressing ongoing emotional problems or self-defeating behavior that interfere with the ability to carry out life’s major activities.</p>
 	  			<p>The community-based program is founded on coordination of care that emphasizes client engagement, grief counseling, regular monitoring and review of progress while providing referrals to community resources and support services.</p>
 	  			<p>Following an initial assessment and diagnosis, client and counselors working in partnership, identify problem situations and select those interventions which will help the client achieve a stable, productive and satisfying life within their family and community.</p>
@@ -120,7 +121,7 @@
 		  				<li>Case management</li>
 		  				<li>Connecting adults and families to community resources</li>
 	  				</ul>
-	  			<p><em>For more information or to make an appointment, call (602) 243-1773.</em></p>
+	  			<p><em>For more information or to make an appointment, call<br/>(602) 243-1773</em></p>
 	  		</div>	  		
 	  	</div>	  	
 	  </section>

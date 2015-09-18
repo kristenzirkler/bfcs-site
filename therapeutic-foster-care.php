@@ -87,7 +87,7 @@
 	  			<p>Therapeutic Foster Care is a specialized program of foster parents with advanced training to provide care and clinically based behavioral treatment to children or adolescents with intensive emotional or behavioral needs.</p>
 	  			<p>Therapeutic foster care is an alternative to institutional, residential treatment or group home care placements. The level of care provided in these homes is for children and adolescents who require more intensive treatment and supervision than is usually found in a traditional foster home or group home.</p>
 	  			<p>Children are placed in family home settings with foster families specifically trained to treatment and manage children with severe behavioral issues. Effective interventions for these youths are multidimensional and implemented in the home, at school and in the community.</p>
-	  			<p>Treatment strategies include advanced behavioral parent training for Therapeutic Foster Care parents, behavioral modification skills for youths, family support, therapy, school based interventions and other academic support, psychiatric and psychological consultation and medication management ,as needed.</p>
+	  			<p>Treatment strategies include advanced behavioral parent training for Therapeutic Foster Care parents, behavioral modification skills for youths, family support, therapy, school based interventions and other academic support, psychiatric and psychological consultation and medication management, as needed.</p>
 	  			<p>Services and support provided by the program are responsive to cultural, racial and ethnic differences of the children and families served.</p>
 	  		</div>
 	  		<div class="large-5 columns">
