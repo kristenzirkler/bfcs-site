@@ -22,8 +22,8 @@
 
    	  <div class="row service-info hide-for-large-up">
 	  		<div class="large-6 columns">
-	  			<h3>Family enhancement</h3>
-	  			<h4>Need sub-headline</h4>
+	  			<h3>Family Enhancement Program</h3>
+	  			<h4>Services that help families stay together</h4>
 	  		</div>
 	  </div>
   
@@ -70,8 +70,8 @@
 	  <section class="service-info">
 	  	<div class="row">
 	  		<div class="large-6 columns show-for-large-up">
-	  			<h3>Family enhancement</h3>
-	  			<h4>Need sub-headline</h4>
+	  			<h3>Family Enhancement Program</h3>
+	  			<h4>Services that help families stay together</h4>
 	  		</div>
 	  		<div class="large-3 small-6 columns service-video">
 	  			<a class="padding-left" href="#" data-reveal-id="modalOne"><img src="img/placeholder-four.jpg" alt=""></a>
@@ -84,21 +84,22 @@
 	  	</div>
 	  	<div class="row">
 	  		<div class="large-5 columns">
-	  			<p>Black Family and Child Services is committed to partnering with the family, Comprehensive Service Providers, other system stakeholders and the community to provide quality support services in the most family-centered and least restrictive manner possible to help families stay together and become fully functioning.</p>
-	  			<p>The Family Enhancement Program is a continuum of direct services to help families meet their goals and cope with the problems of everyday living. Our staff provides services in the home, in the community, in the school or wherever it is most convenient for the family.</p>
+	  			<p>This is a community-based, family-centered program designed to help children and families stay together by providing them with direct support services to address behavioral, developmental and emotional needs of children, and appropriate parental training.</p>
+	  			<p>The continuum of family-centered services may be delivered in home, school and other community sites, and is tailored to meet the unique needs of the child and the family, while supporting their healthy growth and development.</p>
 	  		</div>
 	  		<div class="large-5 columns">
-	  			<p><em>In order to qualify for the Family Enhancement Program, the child must be enrolled in the ValueOptions behavioral health system.</em></p>
-	  			<p>The following services are included and provided by a culturally diverse, highly qualified staff:</p>
+	  			<p>Services include but are not limited to:</p>
 	  				<ul>
-		  				<li>Living Skills/Social Skills</li>
-		  				<li>Family Support Training</li>
-		  				<li>In-Home Family Counseling</li>
-		  				<li>Crisis Support</li>
-		  				<li>Job Development and Placement</li>
-		  				<li>Assistance in Connecting with Community Resources</li>
-		  				<li>Case Management</li>
+		  				<li>Family support</li>
+		  				<li>In-home coaching</li>
+		  				<li>Social and communication skills training</li>
+		  				<li>Living skills training</li>
+		  				<li>Self-regulation and decision making skills</li>
+		  				<li>Case management</li>
+		  				<li>Accessing community resources</li>
 	  				</ul>
+	  			<p>Services are provided by professional, qualified staff with education and experience in behavior coaching, counseling or related human services.</p>
+	  			<p>Children must be enrolled with providers who contract with the Regional Behavioral Health Authority (RBHA) to qualify for this program.</p>
 	  		</div>	  		
 	  	</div>	  	
 	  </section>
