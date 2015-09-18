@@ -40,7 +40,9 @@
   		<p>Since 1984, Ms. Black has developed numerous programs, including: Juvenile Intervention, a pregnancy prevention program for teens; a behavioral health counseling program for children and families; a substance abuse out-patient program for adults; Foster Care and Adoption programs that have placed hundreds of children in nurturing homes; one of the first 25 Charter Schools in the state of Arizona (which was open from 1995 – 2004); provided the vision and leadership, in 1994, to renovate a 27,000 square foot facility with only private sector partnerships; and, most recently, expanded the foster care program to provide Therapeutic Foster Care to some of Arizona’s most emotionally fragile children.</p>
   		<p><strong>Awards</strong>
   		<ul>
-  		<li>Named one of Arizona's 48 Most Intriguing Women - 2012</li>
+      <li>Phoenix Suns/Martin Luther King Community Leadership and Service Award – (2014) - <a href="">Watch video</a> of award ceremony.</li>
+      <li>Extraordinary Women of Color Award – ABC 15 Sonoran Living – (2014) - <a href="https://www.youtube.com/watch?v=VYA5qQ8oHIo">Watch feature video</a> and award presentation interview</li>
+  		<li>Named one of Arizona's 48 Most Intriguing Women – (2012) – The Arizona Centennial Legacy Project by the Arizona Historical Advisory Commission</li>
   		<li>Featured in a Phoenix Magazine article, “Power . . . Who’s Got It?” (1999)</li>
   		<li>City of Phoenix Martin Luther King, Jr. “Living the Dream” Award (2002)</li>
   		<li>Runner-up Arizona State Chamber of Commerce Athena Award (1999)</li>
