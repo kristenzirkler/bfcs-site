@@ -58,15 +58,14 @@
 		  		<img src="img/placeholder-two.jpg" alt="">  	
 		  	</div>
 		  	<div class="large-5 columns">
-		  		<h3>Urgent Need: Donate to After School Programs</h3>
-		  			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum scelerisque, 
-		  			magna ac volutpat tristique, tellus ipsum tempus turpis,</p>
+		  		<h3>Urgent Need: Donate to right choice after school program</h3>
+		  			<p>Your donation will make it possible for dozens of children between the ages of 5-13 to attend this much-needed supervised after school program.</p>
 		  	</div>
 		  	<div class="large-3 columns">
 		  		<div class="donate-button show-for-large-up">
 			  		<a href="donate.php">
 				  		<div class="triangle-right"></div>
-				  		<h3>Donate to<br> After School<br> Programs Now</h3>
+				  		<h3>Donate to<br> Right Choice<br> Program Now</h3>
 			  		</a>
 		  		</div>
 		  	</div>
@@ -76,14 +75,14 @@
   
   <div class="row">
 	<div class="large-12 columns show-for-small-only">		
-			<a class="donate-cta-purple" href="http://www.google.com">Donate to After School Programs Now <span>&#9654;</span></a>	
+			<a class="donate-cta-purple" href="http://www.google.com">Donate to After School Program Now <span>&#9654;</span></a>	
 	</div>
   </div>
   <!--END ROW-->
   
   <div class="row">
 	<div class="large-12 columns show-for-medium-only">		
-			<a class="donate-cta-purple" href="http://www.google.com">Donate to After School Programs Now <span>&#9654;</span></a>	
+			<a class="donate-cta-purple" href="http://www.google.com">Donate to After School Program Now <span>&#9654;</span></a>	
 	</div>
   </div>
   <!--END ROW-->
