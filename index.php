@@ -55,11 +55,11 @@
   <div class="row">
   	<div class="donate">
 		  	<div class="large-3 columns show-for-large-up">		  		
-		  		<img src="img/placeholder-two.jpg" alt="">  	
+		  		<img src="img/placeholder-two.jpg" alt="" style="height: 135px">  	
 		  	</div>
 		  	<div class="large-5 columns">
 		  		<h3>Urgent Need: Donate to right choice after school program</h3>
-		  			<p>Your donation will make it possible for dozens of children between the ages of 5-13 to attend this much-needed supervised after school program.</p>
+		  		<p>Your donation will make it possible for dozens of children between the ages of 5-13 to attend this much-needed supervised after school program.</p>
 		  	</div>
 		  	<div class="large-3 columns">
 		  		<div class="donate-button show-for-large-up">
