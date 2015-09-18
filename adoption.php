@@ -84,26 +84,25 @@
 	  	</div>
 	  	<div class="row">
 	  		<div class="large-5 columns">
-	  			<p>Adoption is a legal procedure in which permanent new parents are provided 
-	  			for a child when his or her birth parents are unable or unwilling to provide 
-	  			care. There are four types of adoption programs available to prospective parents:</p>
-	  				<ul>
-		  				<li>Adoption of children in the Arizona Department of 
-		  				Economic Security System (DES)</li>
-		  				<li>Private Adoption</li>
-		  				<li>Grandparent, Step-parent and Relative Adoption</li>
-		  				<li>Foster/Adopt Conversions</li>
-	  				</ul>
+	  			<p>While family reunification is the primary goal for foster children, there are instances when it is not possible for the children to return home. In those cases, permanence for children can also be achieved through adoption.</p>
 	  			<p><em>BFCS Adoption Services provide a comprehensive program that includes:</em></p>	
 	  				<ul>
-		  				<li>Orientation – held monthly</li>
+		  				<li>An adoption orientation</li>
 		  				<li>Pre-service training classes</li>
-		  				<li> Foster-adopt program aimed at increasing the number of 
-		  				children in foster care who will be formally adopted by 
-		  				their foster families.</li>
+		  				<li>A foster-adopt program aimed at increasing the number of children in foster care who will be legally adopted by their foster families</li>
 		  				<li>Support groups for parents</li>
-		  				<li>Advanced Training</li>
+		  				<li>Advanced training sessions</li>
 	  				</ul>
+	  			<p><em>Reasons for Adoption</em></p>
+	  			<p>Foster parents provide temporary care to a child when his or her birth parents are unable to provide adequate care. Adoption occurs when a permanent placement is needed. Adoption can be with a relative or non-relative adoptive family that would provide a child with a forever home.</p>
+	  			<p>There are four major reasons why adoption may be sought. The child:</p>
+	  				<ul>
+		  				<li>is a victim of physical, sexual or emotional abuse</li>
+		  				<li>is a victim of serious neglect</li>
+		  				<li>has been abandoned</li>
+		  				<li>has parents who have voluntarily relinquished rights for their care, or whose rights have been severed by the Juvenile Court</li>
+	  				</ul>
+	  			<p><em>For more information about Adoption, contact BFCS Foster Care at (602) 256-2948.</em></p>
 	  		</div>
 	  		<div class="large-5 columns">
 	  			<p><em>Adoption Requirements</em></p>
