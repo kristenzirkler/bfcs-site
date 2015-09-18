@@ -66,24 +66,33 @@
   	    <img src="img/staff/staff_tim_martinson.jpg" alt="Tim Martinson" class="th" style="float:left;margin-right:20px;width:133px;height=200px;" />
   		<h4>Tim Martinson, LMSW</h4>
   		<h6>Director of Behavioral Health Services</h6>
-  		<p>Tim has provided 24 years of behavioral health service to children and families in Maricopa County, starting as a clinician in private practice in 1982. He then joined Florence Crittenton Services in 1984 as a therapist in its outpatient and residential programs. He stayed with Florence Crittenton for 11 years moving from therapist to program coordinator of outpatient services to clinical coordinator of the agency.</p>
-  		<p>Tim joined Black Family and Child Services in 1995 as Clinical Coordinator of the outpatient program. He helped the agency in a variety of capacities as it transitioned its service delivery with the ever-changing needs of children and families. Since 2002, Tim has served Black Family and Child Services as Director of Behavioral Health Services for the outpatient clinic.</p>
-  		<p>He has been licensed by the Arizona Board of Behavioral Health Examiners since 1991. Tim’s clients have been primarily children, ages 3 – 17, suffering from depression, ADHD, anxiety and behavioral disorders. He also has extensive experience in working with adults who have substance abuse problems.</p>
+  		<p>Tim is responsible for oversight of all clinical operations for the child and family program and the adult general mental health and substance abuse programs.</p>
+  		<p>It is Tim’s responsibility that the programs stay in compliance with all licensing and regulatory standards, to ensure staff follows agency policies and procedures, manage program budgets and implement quality improvement policies.</p>
+  		<p>Tim has been working in the behavioral health field in Arizona for more than 32 years, joining Black Family and Child Services in 1995. He has remained at BFCS because of his passion for the agency mission: “Improving the lives of children and families.”</p>
+      <p>Prior to joining BFCS, Tim worked at Florence Crittention Services outpatient and residential programs for 11 years. He has held a Behavioral Health Professional license from the Arizona Board of Behavioral Health as a Licensed Master Social Worker since 1991.</p>
+      <p>Tim holds a double bachelor’s degree in counseling and behavior modification from St. Cloud State University in Minnesota. He holds a Master’s of Social Work degree from Arizona State University.</p>
   	    <hr>
   	    <img src="img/staff/staff_kamal.jpg" alt="Kamal El Shaarawy" class="th" style="float:left;margin-right:20px;width:133px;height=200px;" />
   		<h4>Kamal El Shaarawy</h4>
-  		<h6>Supervisor of the Family Support/Family Preservation Program</h6>
-  		<p>Kamal had been working in the mental health field for more than 20 years before joining Black Family and Child Services in 2001, as Supervisor of the Family Builders Program and then as Supervisor of the agency’s Family Support and Family Preservation Program.</p>
-  		<p>He began his career in the metal health field as a Therapeutic Staff Support (TSS), implementing treatment plans for teens and their families. After earning his masters in psychology, he worked for many years as a Behavior Specialist Consultant in the public school systems and as a Mobile Therapist in a wrap-around program counseling families and their children in their homes.</p>
-  		<p>His passion is to empower families through hope and action to lead successful lives.</p>
+  		<h6>Director of Family Enhancement Program</h6>
+  		<p>Kamal is responsible for hiring, training, managing behavioral health coaches. He also ensures program quality through regular evaluation of program activities, and monitoring record keeping, service documentation and the data collection process.</p>
+  		<p>He joined Black Family and Child Services of Arizona in 2001. Prior to that, he worked for seven years as a behavior specialists consultant in public school systems and as a mobile therapist in a comprehensive wrap-around program, counseling families and their children in home settings.</p>
+  		<p>He has a master’s degree in clinical psychology, he is a certified clinical hypnotherapist, and is a certified instructor of the parenting approach “Parents as Teachers.</p>
+      <p>His passion is to help families through hope and action to lead successful lives.</p>
   	    <hr>
   	    <img src="img/staff/Tez_Bekele.jpg" alt="Tezerash Bekele" class="th" style="float:left;margin-right:20px;width:133px;height=200px;" />
   		<h4>Tezerash Bekele</h4>
-  		<h6>Quality Management / Performance Improvement Manager</h6>
-  		<p>Tezerash has 29 years of work experience in the areas of health, human services and socio-economic development initiatives targeted to improve the lives of under-privileged people both nationally and internationally. Using her multi-disciplinary expertise, she has effectively contributed to projects and programs that have made a difference in the lives of disadvantaged communities while working for: Save the Children USA -- Child Family Reunification Program; the United Nations Development Program (UNDP); the United Nations Economic Commission for Africa (UNECA) and other government agencies abroad.</p>
-  		<p>Driven by her passion to improve the quality of lives of children and families, adolescents and adults, she joined Black Family and Child Services of Arizona in 2007, as Manager of the Quality Management and Performance Improvement Unit. Prior to joining BFCS, Tezerash had worked for the Arizona Department of Health Services, Arizona Division of Behavioral Health Services to implement a system of continuous quality management and performance improvement initiatives and projects.</p>
-  		<p>At BFCS, she ensures that the quality of care and services provided to BFCS service recipients are at the highest level. She develops effective policies and procedures and continuously monitors and evaluates the services provided by the Behavioral Health Program, the Family Support Program and Therapeutic Foster Care Program. She identifies training, provides technical assistance and performance improvement strategies and monitors implementation.</p>
-  		<p>She has a Master’s Degree in International Development and Social Change from Clark University in Worcester, Massachusetts with a strong emphasis on participatory approach. Her education and diverse work experience have provided her with a deep analytical ability to view social and community problems from all aspects of life.</p>
+  		<h6>Director of Quality and Performance Improvement</h6>
+  		<p>Tezerash is responsible for leading the Quality Management and Performance Improvement Department and ensuring that the quality of care and services provided to behavioral service recipients meet the highest standards.</p>
+  		<p>She joined BFCS in 2007.  Prior to that, she had worked for the Arizona Department of Health Services, Division of Behavioral Health Services implementing a system of continuous quality management and performance improvement initiatives and projects.</p>
+  		<p>She also has extensive experience in implementing projects and programs that have made a difference in the lives of disadvantaged communities and also alleviated social and economic problems while working for major international organizations abroad, including the United Nations Development Program (UNDP), the United Nations Economic Commission for Africa (UNECA) and Save the Children USA.</p>
+  		<p>She has a master’s degree in international development and social change from Clark University in Worcester, Massachusetts with emphasis on participatory approach and is passionate about improving the lives of children, adults and families in all aspects of life.</p>
+        <hr>
+      <h4>Lavarez Harris, EdD</h4>
+      <h6>Foster Care and Adoption Manager</h6>
+      <p>Lavarez has managed the Foster Care, Therapeutic Foster Care and the Adoptions Programs at BFCS since 2011.</p>
+      <p>Dr. Harris’ professional experience includes 16 years in the child welfare system at the Department of Children and Family Services in both Los Angeles and Orange Counties in California, and in non-profit agencies Phoenix.  Throughout her career, she has provided clinical and behavioral supervision for family reunification, adoption, recruitment, and parent aide, staff and foster parent training.</p>
+      <p>Dr. Harris continues to maintain Marriage and Family Therapist (MFT) licensure and a Mediation Certification in the State of California. Dr. Harris attended California State University at Northridge where she earned a master’s degree in Marriage and Family Therapy. She earned a Doctorate in Education in Clinical Psychology in 2007.</p>
   	</div>
   </div> 
   
