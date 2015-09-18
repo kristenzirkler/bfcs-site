@@ -43,8 +43,8 @@
       <li>Phoenix Suns/Martin Luther King Community Leadership and Service Award – (2014) - <a href="">Watch video</a> of award ceremony.</li>
       <li>Extraordinary Women of Color Award – ABC 15 Sonoran Living – (2014) - <a href="https://www.youtube.com/watch?v=VYA5qQ8oHIo">Watch feature video</a> and award presentation interview</li>
   		<li>Named one of Arizona's 48 Most Intriguing Women – (2012) – The Arizona Centennial Legacy Project by the Arizona Historical Advisory Commission</li>
-  		<li>Featured in a Phoenix Magazine article, “Power . . . Who’s Got It?” (1999)</li>
-  		<li>City of Phoenix Martin Luther King, Jr. “Living the Dream” Award (2002)</li>
+  		<li>Featured in a Phoenix Magazine article, "Power . . . Who’s Got It?" (1999)</li>
+  		<li>City of Phoenix Martin Luther King, Jr. "Living the Dream" Award (2002)</li>
   		<li>Runner-up Arizona State Chamber of Commerce Athena Award (1999)</li>
   		<li>Clara Hale Humanitarian Award (1994)</li>
   		<li>Today’s Arizona Woman Top 10 Women in Arizona (1994)</li>
@@ -69,8 +69,8 @@
   		<h4>Tim Martinson, LMSW</h4>
   		<h6>Director of Behavioral Health Services</h6>
   		<p>Tim is responsible for oversight of all clinical operations for the child and family program and the adult general mental health and substance abuse programs.</p>
-  		<p>It is Tim’s responsibility that the programs stay in compliance with all licensing and regulatory standards, to ensure staff follows agency policies and procedures, manage program budgets and implement quality improvement policies.</p>
-  		<p>Tim has been working in the behavioral health field in Arizona for more than 32 years, joining Black Family and Child Services in 1995. He has remained at BFCS because of his passion for the agency mission: “Improving the lives of children and families.”</p>
+  		<p>It is Tim's responsibility that the programs stay in compliance with all licensing and regulatory standards, to ensure staff follows agency policies and procedures, manage program budgets and implement quality improvement policies.</p>
+  		<p>Tim has been working in the behavioral health field in Arizona for more than 32 years, joining Black Family and Child Services in 1995. He has remained at BFCS because of his passion for the agency mission: "Improving the lives of children and families."</p>
       <p>Prior to joining BFCS, Tim worked at Florence Crittention Services outpatient and residential programs for 11 years. He has held a Behavioral Health Professional license from the Arizona Board of Behavioral Health as a Licensed Master Social Worker since 1991.</p>
       <p>Tim holds a double bachelor’s degree in counseling and behavior modification from St. Cloud State University in Minnesota. He holds a Master’s of Social Work degree from Arizona State University.</p>
   	    <hr>
@@ -79,7 +79,7 @@
   		<h6>Director of Family Enhancement Program</h6>
   		<p>Kamal is responsible for hiring, training, managing behavioral health coaches. He also ensures program quality through regular evaluation of program activities, and monitoring record keeping, service documentation and the data collection process.</p>
   		<p>He joined Black Family and Child Services of Arizona in 2001. Prior to that, he worked for seven years as a behavior specialists consultant in public school systems and as a mobile therapist in a comprehensive wrap-around program, counseling families and their children in home settings.</p>
-  		<p>He has a master’s degree in clinical psychology, he is a certified clinical hypnotherapist, and is a certified instructor of the parenting approach “Parents as Teachers.</p>
+  		<p>He has a master’s degree in clinical psychology, he is a certified clinical hypnotherapist, and is a certified instructor of the parenting approach "Parents as Teachers.</p>
       <p>His passion is to help families through hope and action to lead successful lives.</p>
   	    <hr>
   	    <img src="img/staff/Tez_Bekele.jpg" alt="Tezerash Bekele" class="th" style="float:left;margin-right:20px;width:133px;height=200px;" />
