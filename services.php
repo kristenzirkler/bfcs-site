@@ -36,10 +36,10 @@
             <h4 style="margin-bottom:-20px;"><a href="adoption.php" style="color:#986899;">Adoption</a></h4><br>
             <em>You can make a profound difference in the life of a child who needs a stable home.</em>
             <hr>
-            <h4 style="margin-bottom:-20px;"><a href="foster-care.php" style="color:#986899;">Foster Care</a></h4><br>
+            <h4 style="margin-bottom:-20px;"><a href="parent-aide.php" style="color:#986899;">Foster Care</a></h4><br>
             <em>Need a sub-headline here.</em>
             <hr>
-            <h4 style="margin-bottom:-20px;"><a href="therapeutic-foster-care.php" style="color:#986899;">Therapeutic Foster Care</a></h4><br>
+            <h4 style="margin-bottom:-20px;"><a href="therapeutic-parent-aide.php" style="color:#986899;">Therapeutic Foster Care</a></h4><br>
             <em>Need a sub-headline here.</em>
             <hr>
             <h4 style="margin-bottom:-20px;"><a href="behavioral-health.php" style="color:#986899;">Behavioral Health</a></h4><br>
