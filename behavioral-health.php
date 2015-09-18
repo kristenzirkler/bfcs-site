@@ -22,8 +22,8 @@
   
    	  <div class="row service-info hide-for-large-up">
 	  		<div class="large-6 columns">
-	  			<h3>Behavioral Health</h3>
-	  			<h4>Need sub-headline</h4>
+	  			<h3>Behavioral Health Counseling Services</h3>
+	  			<h4>Outpatient counseling services are available for children, adults and families</h4>
 	  		</div>
 	  </div>
 
@@ -70,8 +70,8 @@
 	  <section class="service-info">
 	  	<div class="row">
 	  		<div class="large-6 columns show-for-large-up">
-	  			<h3>Behavioral Health</h3>
-	  			<h4>Need sub-headline</h4>
+	  			<h3>Behavioral Health Counseling Services</h3>
+	  			<h4>Outpatient counseling services are available for children, adults and families</h4>
 	  		</div>
 	  		<div class="large-3 small-6 columns service-video">
 	  			<a class="padding-left" href="#" data-reveal-id="modalOne"><img src="img/placeholder-four.jpg" alt=""></a>
@@ -84,41 +84,43 @@
 	  	</div>
 	  	<div class="row">
 	  		<div class="large-5 columns">
-	  			<p>Need copy</p>
-	  				<!--<ul>
-		  				<li>Adoption of children in the Arizona Department of 
-		  				Economic Security System (DES)</li>
-		  				<li>Private Adoption</li>
-		  				<li>Grandparent, Step-parent and Relative Adoption</li>
-		  				<li>Foster/Adopt Conversions</li>
-	  				</ul>
-	  			<p><em>BFCS Adoption Services provide a comprehensive program that includes:</em></p>	
+	  			<p><em>Child and Family Counseling</em></p>
+	  			<p>BFCS Child and Family Counseling is a family-centered, strength-based program promoting positive child development and emotional well being, and strengthening the family's ability to provide a safe, stable and secure home environment.</p>
+	  			<p>Child and Family Counseling provides a full range of outpatient behavioral health services to children under 18 and their families. Services are tailored to meet individual needs and overcome a wide range of behavioral, emotional or relationship problems, while promoting healthy family dynamics.</p>
+	  			<p>Service planning – selecting treatment goals and planning an intervention – and decision making is done within the context of a Child and Family Team consisting of family members and other supporters, professionals and non-professionals who are involved in the child's life and are concerned with the child’s well being.</p>
+	  			<p>The Child and Family Team provides continuous support and guidance in the delivery of services during the implementation of the service plan.</p>
+	  			<p>Services available through the Child and Family Counseling program include:</p>
 	  				<ul>
-		  				<li>Orientation – held monthly</li>
-		  				<li>Pre-service training classes</li>
-		  				<li> Foster-adopt program aimed at increasing the number of 
-		  				children in foster care who will be formally adopted by 
-		  				their foster families.</li>
-		  				<li>Support groups for parents</li>
-		  				<li>Advanced Training</li>
-	  				</ul>-->
+		  				<li>Assessment and diagnosis</li>
+		  				<li>Individual, family and group counseling </li>
+		  				<li>Parent education and support</li>
+		  				<li>In-home coaching</li>
+		  				<li>Psychiatric evaluation and medication management</li>
+		  				<li>Psychological consultation</li>
+		  				<li>Case management and support</li>
+		  				<li>Service coordination with schools, and other child serving agencies and organizations</li>
+	  				</ul>
+  				<p>Our professional, culturally competent staff has a broad range of educational backgrounds and professional experiences in helping children and families resolve family conflicts, enhance family functioning, and manage crises and challenges to help children to perform successfully in school and become productive adults.</p>
+  				<p><em>For additional information or to make an appointment call (602) 243-1773. Adult Outpatient Counseling</em></p>
 	  		</div>
 	  		<div class="large-5 columns">
-	  			<p>Need copy
-	  			<!--<em>Adoption Requirements</em></p>
+	  			<p><em>The BFCS Adult Outpatient Counseling Program</em></p>
+	  			<p>BFCS Adult Outpatient Counseling services are available for individuals over 18 years of age, couples and families dealing with unexpected challenges, or traumatic events, coping with personal and interpersonal conflicts, addressing ongoing emotional problems or self-defeating behavior that interfere with the ability to carry out life’s major activities.</p>
+	  			<p>The community-based program is founded on coordination of care that emphasizes client engagement, grief counseling, regular monitoring and review of progress while providing referrals to community resources and support services.</p>
+	  			<p>Following an initial assessment and diagnosis, client and counselors working in partnership, identify problem situations and select those interventions which will help the client achieve a stable, productive and satisfying life within their family and community.</p>
+	  			<p>Services include, but are not limited to:</p>
 	  				<ul>
-		  				<li>You must be over 18 years of age</li>
-		  				<li>You can be either married or single</li>
-		  				<li> Persons in your home 18 years of age or older 
-		  				must be fingerprinted and submit a current physician’s report</li>
-		  				<li>Parents must attend pre-adoption training classes</li>
+		  				<li>Individual, couple, family or group counseling</li>
+		  				<li>Psychiatric referral for evaluation and medication monitoring</li>
+		  				<li>Overcoming anxiety and depression</li>
+		  				<li>Essential coping skills</li>
+		  				<li>Stress management</li>
+		  				<li>Anger management</li>
+		  				<li>Social and live skills training</li>
+		  				<li>Case management</li>
+		  				<li>Connecting adults and families to community resources</li>
 	  				</ul>
-	  			<p><em>You may qualify to adopt even if:</em></p>	
-	  				<ul>
-		  				<li>You do not own your own home</li>
-		  				<li>You do not have a separate room for your adoptive child</li>
-		  				<li>Your income is modest and you do not have a bank account</li>
-	  				</ul>-->
+	  			<p><em>For more information or to make an appointment, call (602) 243-1773.</em></p>
 	  		</div>	  		
 	  	</div>	  	
 	  </section>
