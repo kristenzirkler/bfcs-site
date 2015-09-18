@@ -22,8 +22,8 @@
 
    	  <div class="row service-info hide-for-large-up">
 	  		<div class="large-6 columns">
-	  			<h3>Substance Abuse Programs</h3>
-	  			<h4>Need sub-headline</h4>
+	  			<h3>Substance Abuse Counseling Services</h3>
+	  			<h4>Outpatient counseling services are available for adults</h4>
 	  		</div>
 	  </div>
   
@@ -70,8 +70,8 @@
 	  <section class="service-info">
 	  	<div class="row">
 	  		<div class="large-6 columns show-for-large-up">
-	  			<h3>Substance Abuse Programs</h3>
-	  			<h4>Need sub-headline</h4>
+	  			<h3>Substance Abuse Counseling Services</h3>
+	  			<h4>Outpatient counseling services are available for adults</h4>
 	  		</div>
 	  		<div class="large-3 small-6 columns service-video">
 	  			<a class="padding-left" href="#" data-reveal-id="modalOne"><img src="img/placeholder-four.jpg" alt=""></a>
@@ -84,41 +84,22 @@
 	  	</div>
 	  	<div class="row">
 	  		<div class="large-5 columns">
-	  			<p>Need copy</p>
-	  				<!--<ul>
-		  				<li>Adoption of children in the Arizona Department of 
-		  				Economic Security System (DES)</li>
-		  				<li>Private Adoption</li>
-		  				<li>Grandparent, Step-parent and Relative Adoption</li>
-		  				<li>Foster/Adopt Conversions</li>
-	  				</ul>
-	  			<p><em>BFCS Adoption Services provide a comprehensive program that includes:</em></p>	
-	  				<ul>
-		  				<li>Orientation – held monthly</li>
-		  				<li>Pre-service training classes</li>
-		  				<li> Foster-adopt program aimed at increasing the number of 
-		  				children in foster care who will be formally adopted by 
-		  				their foster families.</li>
-		  				<li>Support groups for parents</li>
-		  				<li>Advanced Training</li>
-	  				</ul>-->
+	  			<p>Counseling for substance abuse focuses on stopping or reducing drug use, adherence to a recovery plan, and addressing related areas of impaired functioning – such as employment status, illegal activity, and conflicts in family and social relationships.</p>
+	  			<p>Since people with substance abuse problems often have a co-occurring mental disorder, an integrated approach is used for screening, assessment and subsequent interventions that are consistent with diagnosis, and match levels of functioning and care.</p>
 	  		</div>
 	  		<div class="large-5 columns">
-	  			<p>Need copy
-	  			<!--<em>Adoption Requirements</em></p>
+	  			<p>Some essential features of treatment may include:</p>
 	  				<ul>
-		  				<li>You must be over 18 years of age</li>
-		  				<li>You can be either married or single</li>
-		  				<li> Persons in your home 18 years of age or older 
-		  				must be fingerprinted and submit a current physician’s report</li>
-		  				<li>Parents must attend pre-adoption training classes</li>
+		  				<li>Screening, assessment or referral</li>
+						<li>Individual, family, group and home-based counseling</li>
+						<li>Physical health consultation</li>
+						<li>Psychiatric referral for evaluation and medication monitoring</li>
+						<li>Case Management</li>
+						<li>Psychoeducational classes</li>
+						<li>Relapse prevention</li>
+						<li>Referral to mutual self-help groups</li>
 	  				</ul>
-	  			<p><em>You may qualify to adopt even if:</em></p>	
-	  				<ul>
-		  				<li>You do not own your own home</li>
-		  				<li>You do not have a separate room for your adoptive child</li>
-		  				<li>Your income is modest and you do not have a bank account</li>
-	  				</ul>-->
+	  			<p><em>For additional information or to make an appointment, call (602) 243-1773.</em></p>
 	  		</div>	  		
 	  	</div>	  	
 	  </section>
