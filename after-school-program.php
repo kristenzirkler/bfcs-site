@@ -45,7 +45,7 @@
 	  			<a href="donate.php">
 	  				<h2>I want to donate <span>&#9654;</span></h2>
 	  				<div class="show-for-medium-up">
-		  				<p>I would like to make a financial contribution or donate my time to support the BFCS After School Programs.</p>
+		  				<p>I would like to make a financial contribution or donate my time to support the BFCS After School Program.</p>
 	  				</div>
 	  			</a>
 	  			</div>
