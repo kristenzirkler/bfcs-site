@@ -29,19 +29,20 @@
 
     <div class="row intro">
         <div class="large-5 columns">
+            ldkslafkd
        </div>
 
         <div class="large-5 columns left large-offset-1">
-            <h1>Generous Donors Nationwide Support BFCS Client</h1>
+            <h4>Generous Donors Nationwide Support BFCS Client</h4>
 
-            <h2>Great-grandmother Sarah Coleman celebrates her new dentures every day</h2>
+            <h6>Great-grandmother Sarah Coleman celebrates her new dentures every day</h6>
 
             <p>Following an article in the July 10, 2008 edition of the Wall Street Journal, a 67 year-old great-grandmother and client of Black Family and Child Services (BFCS) found herself to be the recipient of life-changing dental work that was made possible by generous cash contributions to the agency.</p>
 
-            <h2>Mrs. Coleman's Story</h2>
+            <h6>Mrs. Coleman's Story</h6>
             <p>The story described a sobering situation affecting thousands of families nationwide—elderly grandparents and great-grandparents who are saddled with caring for the young children of parents who have disappeared, or who are spending time in prison. Ms Coleman is caring for the three young children of her granddaughter. Their mother is struggling to earn a living and cannot care for the kids full-time. The children's fathers arein prison. Her limited fixed income and willingness to care for her great-grandchildren had compromised her ability to care for herself. There just wasn't any money left over to pay for the substantial amount of dental work that she needed, or the purchase of new dentures. "I just wanted to eat again," said Ms Coleman.</p>
 
-            <h2>Support Comes from Donars Nationwide</h2>
+            <h6>Support Comes from Donars Nationwide</h6>
             <p>When the article was published in the Wall Street Journal, life as she had known it had changed forever.</p>
 
             <p>Mary Black, president and CEO of BFCS began receiving calls from generous donors from across the country. Many donors sent hundreds of dollars and wished to remain anonymous to be able to help Ms Coleman receive the dental care that she desperately needed.</p>
@@ -53,6 +54,48 @@
             <p>"Sarah's overall health has greatly improved," said Dr. Sprigner. "Now she receives all the proper nutrition that she needs because she can chew her food properly."</p>
 
             <p>"I used to only be able to eat soft and blended foods because it hurt to chew, but now I can eat anything and I want to thank all of the generous individuals who made this possible," Ms Coleman added.</p>
+
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+              <td><em>Sarah before the process </em></td>
+              <td><em>Sarah after the process </em></td>
+            </tr>
+            <tr>
+              <td><img src="images/SarahColemanBefore.jpg" width="200" height="334"></td>
+              <td><img src="images/SarahColemanAfter.jpg" width="200" height="322"></td>
+            </tr>
+          </tbody></table>
+
+            <h6>You Can Make a Difference</h6>
+            <p>Your donation to Black Family and Child Services can make a difference in the life of someone like Ms. Coleman.</p>
+
+            <p>"There are thousands of grandparents on fixed incomes in the Phoenix area that need help—just like Ms Coleman," said Ms Black. "If you can make even a small donation, it will change the quality of life for a deserving family."</p>
+
+            <p>To donate today, click on the Donate Now tab or send your check to:</p>
+
+            <p>
+                Black Family and Child Services of Arizona <br>
+                1522 East Southern Avenue<br>
+                Phoenix, AZ 85040
+            </p>
+            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+                <input type="hidden" name="cmd" value="_donations">
+                <input type="hidden" name="business" value="Gclee5@aol.com">
+                <input type="hidden" name="item_name" value="Black Family and Child Services, Inc.">
+                <input type="hidden" name="item_number" value="0001">
+                <input type="hidden" name="no_shipping" value="0">
+                <input type="hidden" name="return" value="http://www.bfcsfamily.org/donate_thanks.htm">
+                <input type="hidden" name="cancel_return" value="http://www.bfcsfamily.org/donate_cancel.htm">
+                <input type="hidden" name="no_note" value="1">
+                <input type="hidden" name="currency_code" value="USD">
+                <input type="hidden" name="tax" value="0">
+                <input type="hidden" name="lc" value="US">
+                <input type="hidden" name="bn" value="PP-DonationsBF">
+                <input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+                <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+            </form>
+            <p><a href="docs/SarahColemanWSJ.pdf" target="_blank">Click here to read the original Wall Street Journal story.</a> (Adobe PDF)</p>
+
        </div>
     </div><!--END ROW-->
     <?php include ("inc/footer.html"); ?><?php include ("inc/js.html"); ?>
