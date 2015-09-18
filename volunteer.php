@@ -76,17 +76,12 @@
             <p><strong>Adopt-A-Family for the Holidays</strong><br>
             This annual program enables supporters to fulfill the holiday wishes of an economically disadvantaged family.</p>
 
-            <p>BFCS client submit a Wish List to the agency in November that lists personal items, clothing items and toys that children would like to receive for Christmas. Most often, children are in single-parent households and donors can choose how large a family to support based on their ability to give.</p>
+            <p>BFCS clients submit a Wish List to the agency in November that lists personal items, clothing items and toys that children would like to receive for Christmas. Most often, children are in single-parent households and donors can choose how large a family to support based on their ability to give.</p>
 
             <p><strong>Library Volunteers</strong><br>
             BFCS has a Family Resource Center community library in which volunteers can organize and catalog books for both children and adults, or read aloud to children who are clients of the agency.</p>
 
             <p>Day and early evening shifts can be tailored to individual volunteers’ schedules. We ask that volunteers be willing to commit to at least eight hours of volunteer service per month.</p>
-
-            <p><strong>Sponsor a BFCS Educational Conference</strong><br>
-            The agency is planning a major educational conference in late 2010 or early 2011 to present information to community leaders and interested citizens regarding the need to help abused and neglected children in the Valley.</p>
-
-            <p>We are seeking those who would be willing to make financial contributions to underwrite conference costs, speakers who can present workshop sessions and volunteers to staff registration tables.</p>
         </div>
     </div><!--END ROW-->
     <?php include ("inc/footer.html"); ?><?php include ("inc/js.html"); ?>
