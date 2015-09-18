@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"> 
-    <title>Black Family and Child Services of Arizona</title>
+    <title>Staff - Black Family and Child Services of Arizona</title>
     <link rel="stylesheet" href="css/foundation.css">
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="css/responsive-nav.css">

@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-    <title>Black Family and Child Services of Arizona</title>
+    <title>About Black Family and Child Services of Arizona</title>
     <link rel="stylesheet" href="css/foundation.css" type="text/css">
     <link rel="stylesheet" href="css/styles.css" type="text/css">
     <link rel="stylesheet" href="css/responsive-nav.css" type="text/css">
