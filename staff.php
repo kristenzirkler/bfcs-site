@@ -79,7 +79,7 @@
   		<h6>Director of Family Enhancement Program</h6>
   		<p>Kamal is responsible for hiring, training, managing behavioral health coaches. He also ensures program quality through regular evaluation of program activities, and monitoring record keeping, service documentation and the data collection process.</p>
   		<p>He joined Black Family and Child Services of Arizona in 2001. Prior to that, he worked for seven years as a behavior specialists consultant in public school systems and as a mobile therapist in a comprehensive wrap-around program, counseling families and their children in home settings.</p>
-  		<p>He has a master’s degree in clinical psychology, he is a certified clinical hypnotherapist, and is a certified instructor of the parenting approach "Parents as Teachers.</p>
+  		<p>He has a master’s degree in clinical psychology, he is a certified clinical hypnotherapist, and is a certified instructor of the parenting approach "Parents as Teachers".</p>
       <p>His passion is to help families through hope and action to lead successful lives.</p>
   	    <hr>
   	    <img src="img/staff/Tez_Bekele.jpg" alt="Tezerash Bekele" class="th" style="float:left;margin-right:20px;width:133px;height=200px;" />
