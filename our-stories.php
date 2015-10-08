@@ -38,14 +38,14 @@
         <div class="large-5 columns left large-offset-1">
             <h4>Generous Donors Nationwide Support BFCS Client</h4>
 
-            <h6>Great-grandmother Sarah Coleman celebrates her new dentures every day</h6>
+            <p><strong>Great-grandmother Sarah Coleman celebrates her new dentures every day</strong></p>
 
             <p>Following an article in the July 10, 2008 edition of the Wall Street Journal, a 67 year-old great-grandmother and client of Black Family and Child Services (BFCS) found herself to be the recipient of life-changing dental work that was made possible by generous cash contributions to the agency.</p>
 
-            <h6>Mrs. Coleman's Story</h6>
+            <p><strong>Mrs. Coleman's Story</strong></p>
             <p>The story described a sobering situation affecting thousands of families nationwide—elderly grandparents and great-grandparents who are saddled with caring for the young children of parents who have disappeared, or who are spending time in prison. Ms Coleman is caring for the three young children of her granddaughter. Their mother is struggling to earn a living and cannot care for the kids full-time. The children's fathers arein prison. Her limited fixed income and willingness to care for her great-grandchildren had compromised her ability to care for herself. There just wasn't any money left over to pay for the substantial amount of dental work that she needed, or the purchase of new dentures. "I just wanted to eat again," said Ms Coleman.</p>
 
-            <h6>Support Comes from Donars Nationwide</h6>
+            <p><strong>Support Comes from Donars Nationwide</strong></p>
             <p>When the article was published in the Wall Street Journal, life as she had known it had changed forever.</p>
 
             <p>Mary Black, president and CEO of BFCS began receiving calls from generous donors from across the country. Many donors sent hundreds of dollars and wished to remain anonymous to be able to help Ms Coleman receive the dental care that she desperately needed.</p>
@@ -69,7 +69,7 @@
             </tr>
           </tbody></table>
 
-            <h6>You Can Make a Difference</h6>
+            <p><strong>You Can Make a Difference</strong></p>
             <p>Your donation to Black Family and Child Services can make a difference in the life of someone like Ms. Coleman.</p>
 
             <p>"There are thousands of grandparents on fixed incomes in the Phoenix area that need help—just like Ms Coleman," said Ms Black. "If you can make even a small donation, it will change the quality of life for a deserving family."</p>

@@ -29,7 +29,7 @@
 
     <div class="row intro">
         <div class="large-5 columns">
-            <h6>Black Family and Child Services has a five-fold mission:</h6>
+            <p><strong>Black Family and Child Services has a five-fold mission:</strong></p>
 
             <ul>
                 <li>Improving the quality of life for families by empowering them to meet the economic, social and emotional challenges of daily living</li>
@@ -49,7 +49,7 @@
 
             <p>Serving children and families of all ethnic backgrounds since 1984, BFCS is licensed by the State of Arizona to provide Behavioral Health Services and the agency holds a Child Welfare Placing License to provide adoption and foster care services.</p>
         
-            <h7>BFCS is committed to Quality of Care</h7>
+            <p><strong>BFCS is committed to Quality of Care</strong></p>
 
             <p>Black Family and Child Services is committed to ensuring that high quality, appropriate care and services are provided to our client population through the continuous activities and operation of its Quality Assurance and Improvement Program (QA/I).</p>
 
