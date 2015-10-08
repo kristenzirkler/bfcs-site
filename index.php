@@ -25,13 +25,16 @@
   
   <section class="seek-or-help">
 	  <div class="row">
-	  	<div class="large-12 columns"> 	
+	  	<div class="large-12 columns">
+	  		<img src="img/home-banner-event.jpg" alt="Open House" />
+	  		<!--  temp hiding slider
 	  		<ul class="bxslider">
 	  			<li><img src="img/01-home-8144140.jpg" alt="01-home-8144140" /></li>
 	  			<li><img src="img/02-home-14702095.jpg" alt="02-home-14702095" /></li>
 	  			<li><img src="img/03-home-23478431.jpg" alt="03-home-23478431" /></li>
 	  			<li><img src="img/04-home-11742131.jpg" alt="04-home-11742131" /></li>
 	  		</ul>
+	  		-->
 	  			<div class="large-6 columns">	  				
 	  				<a href="services.php">
 		  				<h2 class="text-right">I am Seeking Services <div class="triangle-left"></div></h2>
