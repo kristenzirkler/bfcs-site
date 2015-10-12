@@ -84,19 +84,24 @@
 	  	</div>
 	  	<div class="row">
 	  		<div class="large-5 columns">
-	  			<p>The BFCS Parent Aide Program provides contracted services to families referred by the Arizona Department of Child Safety (DCS) who are seeking reunification with their children.</p>
-	  			<p>Parents learn how to improve their parenting skills and gain ability to provide their children with a safe and secure home environment.</p>
+	  			<p>The BFCS Parent Aide Program provides contracted services to families referred by the Arizona Department of Child Safety (DCS) who are seeking reunification with their children who have been placed in foster care.</p>
+	  			<p>Parents are provided services that will help them improve their parenting skills and gain the ability to provide their children with a safe, stable and secure home environment.</p>
 	  			<p>Parent Aides work with parents to set realistic goals, monitor and review their  progress in achieving needed behavioral changes, and provide reports and recommendations to DCS that assist in decisions about reunification.</p>
 	  		</div>
 	  		<div class="large-5 columns">
 	  			<p><em>Services provided include:</em></p>
+	  			<p>Parenting Education – weekly individual training sessions on:</p>
 	  				<ul>
-		  				<li>Parenting Education – weekly individual sessions on topics such as nurturing, child development, appropriate discipline and communication</li>
-		  				<li>Coping Skills Training – personal problem solving, stress management</li>
-		  				<li>Life Skills Training – including home management, budgeting and nutrition</li>
+		  				<li>Parenting Skills – including topics such as nurturing, child development, appropriate discipline, and communication</li>
+		  				<li>Coping Skills – personal problem solving, stress management</li>
+		  				<li>Life Skills Training – including home management, budgeting, nutrition</li>
 		  				<li>Maintaining a safe and stable home environment</li>
-		  				<li>Supervised visits – including transportation of children to visits</li>
-		  				<li>Linking families to needed community resources</li>
+	  				</ul>
+	  			<p>Supervised Parent – Child Visitation</p>
+	  				<ul>
+		  				<li>Maintain family relationships by arranging and supervising parent-child visits</li>
+		  				<li>Provide for transportation for children’s’ visits</li>
+		  				<li>Assist families in accessing needed community resources</li>
 	  				</ul>
 	  		</div>	  		
 	  	</div>	  	
