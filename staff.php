@@ -63,6 +63,13 @@
       <p>She had been working in the behavioral health field for more than 15 years before joining Black Family and Child Services in 2013.  Cheryl began her career in mental health as a case manager and rapid response clinician ensuring quality of care managing caseloads and service planning process for the SMI and homeless population.</p>
       <p>After earning her masters in counseling, she worked has a certified rehabilitation specialist and certified master school counselor focusing on substance abuse, behavioral screening, assessment, and interventions.</p>
       <hr>
+      <h4>Marguerite Dickey, Ph.D.</h4>
+      <h6>Senior Clinical Consultant</h6>
+      <p>A Board licensed psychologist with over 30 years experience in behavioral health and child welfare fields, Dr. Dickey provides professional direction and guidance to agency staff and management regarding a wide range of behavioral health services. She also works to strengthen and improve the community-based model of service delivery in order to meet the needs of multicultural consumers and community.</p>
+      <p>Dr. Dickey has been with Black Family and Child Services since its inception in 1984, and has had a significant role in planning and implementation of clinical programs and services, incorporating evidence based practices into existing service delivery procedures, and in strategic planning for meeting the needs of a multicultural consumer population and community. Dr. Dickey is an active participant in ensuring that all services provided incorporate standards and practices that ensure cultural competence at all levels of service provision.</p>
+      <p>For more than 15 years, Dr. Dickey provided psychological services and consultation to children and families involved with Child Protective Services (now the Department of Child Safety). She was selected by the Department of Economic Security to co-chair a committee to examine the issue of the over-representation of African American children in foster care and provide the Department with recommendations to correct and improve that situation.</p>
+      <p>Prior to joining Black Family and Child Services, Dr. Dickey provided psychological consultation to Head Start. She was Director of Child and Family Services at Phoenix South Community Mental Health Center and later was a consultant to that agency for more than 10 years.</p>
+      <hr>
   	</div>
   	<div class="large-5 columns left large-offset-1">
   	    <img src="img/staff/staff_tim_martinson.jpg" alt="Tim Martinson" class="th" style="float:left;margin-right:20px;width:133px;height=200px;" />
@@ -95,6 +102,14 @@
       <p>Lavarez has managed the Foster Care, Therapeutic Foster Care and the Adoptions Programs at BFCS since 2011.</p>
       <p>Dr. Harris’ professional experience includes 16 years in the child welfare system at the Department of Children and Family Services in both Los Angeles and Orange Counties in California, and in non-profit agencies Phoenix.  Throughout her career, she has provided clinical and behavioral supervision for family reunification, adoption, recruitment, and parent aide, staff and foster parent training.</p>
       <p>Dr. Harris continues to maintain Marriage and Family Therapist (MFT) licensure and a Mediation Certification in the State of California. Dr. Harris attended California State University at Northridge where she earned a master’s degree in Marriage and Family Therapy. She earned a Doctorate in Education in Clinical Psychology in 2007.</p>
+        <hr>
+      <h4>Sristi Nath, D.O.</h4>
+      <h6>Consulting Psychiatrist</h6>
+      <p>Dr. Nath has practiced psychiatry for more than 13 years. She is board certified in both adult, as well as child and adolescent psychiatry, joining Black Family and Child Services in 2009 to work with the child and adolescent populations. She also maintains a practice at her office in Scottsdale, Arizona.</p>
+      <p>Dr. Nath works as an assistant professor at Midwestern University for the Arizona College of Osteopathic Medicine. She strongly believes in a comprehensive approach to patients, including education, therapy, and social support with any medication treatment plan she may recommend.</p>
+      <p>She also endorses healthy living, incorporating diet and exercise as part of a long-term plan for treatment and prevention. As a result, she has taught fitness instruction and studies nutrition as hobbies.</p>
+      <p>Dr. Nath completed her bachelors in psychology at Stanford University, her medical degree at Midwestern University, and her residency and fellowship at University of Hawaii.</p>
+        <hr>
   	</div>
   </div> 
   
