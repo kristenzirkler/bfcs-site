@@ -88,19 +88,19 @@
 	  		</div>
 	  		<div class="large-3 small-6 columns service-video">
 	  			<a class="padding-left" href="#" data-reveal-id="modalOne"><img src="img/thumbs/2c1thaf_m84.jpg" alt=""></a>
-	  			<span class="padding-left video-title">Meet Brenda, an Adult Behavioral Health client</span>
+	  			<div class="padding-left video-title">Meet Brenda, an Adult Behavioral Health client</div>
 	  		</div>
 	  		<div class="large-3 small-6 columns service-video">
 	  			 <a class="padding-left" href="#" data-reveal-id="modalTwo"><img src="img/thumbs/P6c0ivtm-rg.jpg" alt=""></a>
-  				<span class="padding-left video-title">Meet Diana and her children, clients of the Children’s Behavioral Health Program</span>
+  				<div class="padding-left video-title">Meet Diana and her children, clients of the Children’s Behavioral Health Program</div>
 	  		</div>
-	  		<div class="large-3 small-6 columns service-video">
+	  		<div class="large-3 small-6 large-offset-6 columns service-video">
 	  			<a class="padding-left" href="#" data-reveal-id="modalThree"><img src="img/thumbs/4tRUZ8Mxrdc.jpg" alt=""></a>
-	  			<span class="padding-left video-title">Nathan describes his experience in the Children’s Behavioral Health Program</span>
+	  			<div class="padding-left video-title">Nathan describes his experience in the Children’s Behavioral Health Program</div>
 	  		</div>
 	  		<div class="large-3 small-6 columns service-video">
 	  			 <a class="padding-left" href="#" data-reveal-id="modalFour"><img src="img/thumbs/rtaOTESBrlw.jpg" alt=""></a>
-  				<span class="padding-left video-title">Meet Tony and Alexus, Behavioral Health clients</span>
+  				<div class="padding-left video-title">Meet Tony and Alexus, Behavioral Health clients</div>
 	  		</div>
 	  	</div>
 	  	<div class="row">

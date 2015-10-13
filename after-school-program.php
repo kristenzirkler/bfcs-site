@@ -89,20 +89,19 @@
 	  		</div>
 	  		<div class="large-3 small-6 columns service-video">
 	  			<a class="padding-left" href="#" data-reveal-id="modalOne"><img src="img/thumbs/9JY7ERsi9eo.jpg" alt=""></a>
-	  			<span class="padding-left video-title">Jesse copes with his parents’ breakup.</span>
+	  			<div class="padding-left video-title">Jesse copes with his parents’ breakup.</div>
 	  		</div>
 	  		<div class="large-3 small-6 columns service-video">
 	  			 <a class="padding-left" href="#" data-reveal-id="modalTwo"><img src="img/thumbs/Rx59Lj5FWEk.jpg" alt=""></a>
-  				<span class="padding-left video-title">Jamie is in the Right Track After School Program in Phoenix, Arizona
-</span>
+  				<div class="padding-left video-title">Jamie is in the Right Track After School Program in Phoenix, Arizona</div>
 	  		</div>
 	  		<div class="large-3 small-6 large-offset-6 columns service-video">
 	  			<a class="padding-left" href="#" data-reveal-id="modalThree"><img src="img/thumbs/DfoXQJOJs-0.jpg" alt=""></a>
-	  			<span class="padding-left video-title">Corin is a student in the Right Track After School Program in Phoenix, Arizona</span>
+	  			<div class="padding-left video-title">Corin is a student in the Right Track After School Program in Phoenix, Arizona</div>
 	  		</div>
 	  		<div class="large-3 small-6 columns service-video">
 	  			 <a class="padding-left" href="#" data-reveal-id="modalFour"><img src="img/thumbs/RrZs8WCGAQ8.jpg" alt=""></a>
-  				<span class="padding-left video-title">Elvira is a student in the Right Track After School Program in Phoenix, Arizona</span>
+  				<div class="padding-left video-title">Elvira is a student in the Right Track After School Program in Phoenix, Arizona</div>
 	  		</div>
 	  	</div>
 	  	<div class="row">

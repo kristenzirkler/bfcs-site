@@ -75,12 +75,12 @@
 	  		</div>
 	  		<div class="large-3 small-6 columns service-video">
 	  			<a class="padding-left" href="#" data-reveal-id="modalOne"><img src="img/thumbs/x3jz0E2tVog.jpg" alt=""></a>
-	  			<span class="padding-left video-title">Learn more about the BFCS Food & Nutrition Program</span>
+	  			<div class="padding-left video-title">Learn more about the BFCS Food & Nutrition Program</div>
 	  		</div>
-	  		<!--div class="large-3 small-6 columns service-video">
-	  			 <a class="padding-left" href="#" data-reveal-id="modalOne"><img src="img/placeholder-four.jpg" alt=""></a>
-  				<span class="padding-left video-title">Video Title</span>
-	  		</div-->
+	  		<div class="large-3 small-6 columns service-video">
+	  			 <!--a class="padding-left" href="#" data-reveal-id="modalOne"><img src="img/placeholder-four.jpg" alt=""></a>
+  				<div class="padding-left video-title">Video Title</div-->&nbsp;
+	  		</div>
 	  	</div>
 	  	<div class="row">
             <div class="large-5 columns">

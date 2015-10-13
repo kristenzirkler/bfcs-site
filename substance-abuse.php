@@ -88,19 +88,19 @@
 	  		</div>
 	  		<div class="large-3 small-6 columns service-video">
 	  			<a class="padding-left" href="#" data-reveal-id="modalOne"><img src="img/thumbs/r0qT38rQaaY.jpg" alt=""></a>
-	  			<span class="padding-left video-title">Meet Dawn, an Adult Substance Abuse client</span>
+	  			<div class="padding-left video-title">Meet Dawn, an Adult Substance Abuse client</div>
 	  		</div>
 	  		<div class="large-3 small-6 columns service-video">
 	  			 <a class="padding-left" href="#" data-reveal-id="modalTwo"><img src="img/thumbs/-HN-XBSw99M.jpg" alt=""></a>
-  				<span class="padding-left video-title">Dawn explains her experience at BFCS</span>
+  				<div class="padding-left video-title">Dawn explains her experience at BFCS</div>
 	  		</div>
-	  		<div class="large-3 small-6 columns service-video">
+	  		<div class="large-3 small-6 large-offset-6 columns service-video">
 	  			<a class="padding-left" href="#" data-reveal-id="modalThree"><img src="img/thumbs/l9RjvHfrqp8.jpg" alt=""></a>
-	  			<span class="padding-left video-title">Meet Ted, an Adult Substance Abuse client</span>
+	  			<div class="padding-left video-title">Meet Ted, an Adult Substance Abuse client</div>
 	  		</div>
 	  		<div class="large-3 small-6 columns service-video">
 	  			 <a class="padding-left" href="#" data-reveal-id="modalFour"><img src="img/thumbs/_X3D8nDyUSg.jpg" alt=""></a>
-  				<span class="padding-left video-title">Meet Ebony, an Adult Substance Abuse client</span>
+  				<div class="padding-left video-title">Meet Ebony, an Adult Substance Abuse client</div>
 	  		</div>
 	  	</div>
 	  	<div class="row">
