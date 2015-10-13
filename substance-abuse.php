@@ -55,14 +55,27 @@
 	  
 		<div id="modalOne" class="reveal-modal" data-reveal>
 			<div class="flex-video">
-				<iframe width="420" height="315" src="http://www.youtube.com/embed/T1QyDhLj5hU" frameborder="0" allowfullscreen></iframe>
+				<iframe width="420" height="315" src="http://www.youtube.com/embed/r0qT38rQaaY" frameborder="0" allowfullscreen></iframe>
 			</div>
 			<a class="close-reveal-modal">&#215;</a>
 		</div>
 		
 		<div id="modalTwo" class="reveal-modal" data-reveal>
 			<div class="flex-video">
-				<iframe width="420" height="315" src="http://www.youtube.com/embed/T1QyDhLj5hU" frameborder="0" allowfullscreen></iframe>
+				<iframe width="420" height="315" src="http://www.youtube.com/embed/-HN-XBSw99M" frameborder="0" allowfullscreen></iframe>
+			</div>
+			<a class="close-reveal-modal">&#215;</a>
+		</div>	
+		<div id="modalThree" class="reveal-modal" data-reveal>
+			<div class="flex-video">
+				<iframe width="420" height="315" src="http://www.youtube.com/embed/l9RjvHfrqp8" frameborder="0" allowfullscreen></iframe>
+			</div>
+			<a class="close-reveal-modal">&#215;</a>
+		</div>
+		
+		<div id="modalFour" class="reveal-modal" data-reveal>
+			<div class="flex-video">
+				<iframe width="420" height="315" src="http://www.youtube.com/embed/_X3D8nDyUSg" frameborder="0" allowfullscreen></iframe>
 			</div>
 			<a class="close-reveal-modal">&#215;</a>
 		</div>		
@@ -74,12 +87,20 @@
 	  			<h4>Outpatient counseling services are available for adults</h4>
 	  		</div>
 	  		<div class="large-3 small-6 columns service-video">
-	  			<a class="padding-left" href="#" data-reveal-id="modalOne"><img src="img/placeholder-four.jpg" alt=""></a>
-	  			<span class="padding-left video-title">Video Title</span>
+	  			<a class="padding-left" href="#" data-reveal-id="modalOne"><img src="img/thumbs/r0qT38rQaaY.jpg" alt=""></a>
+	  			<span class="padding-left video-title">Meet Dawn, an Adult Substance Abuse client</span>
 	  		</div>
 	  		<div class="large-3 small-6 columns service-video">
-	  			 <a class="padding-left" href="#" data-reveal-id="modalOne"><img src="img/placeholder-four.jpg" alt=""></a>
-  				<span class="padding-left video-title">Video Title</span>
+	  			 <a class="padding-left" href="#" data-reveal-id="modalTwo"><img src="img/thumbs/-HN-XBSw99M.jpg" alt=""></a>
+  				<span class="padding-left video-title">Dawn explains her experience at BFCS</span>
+	  		</div>
+	  		<div class="large-3 small-6 columns service-video">
+	  			<a class="padding-left" href="#" data-reveal-id="modalThree"><img src="img/thumbs/l9RjvHfrqp8.jpg" alt=""></a>
+	  			<span class="padding-left video-title">Meet Ted, an Adult Substance Abuse client</span>
+	  		</div>
+	  		<div class="large-3 small-6 columns service-video">
+	  			 <a class="padding-left" href="#" data-reveal-id="modalFour"><img src="img/thumbs/_X3D8nDyUSg.jpg" alt=""></a>
+  				<span class="padding-left video-title">Meet Ebony, an Adult Substance Abuse client</span>
 	  		</div>
 	  	</div>
 	  	<div class="row">

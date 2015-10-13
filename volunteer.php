@@ -29,6 +29,18 @@
 
     <div class="row intro">
         <div class="large-5 columns">
+
+            <div id="modalOne" class="reveal-modal" data-reveal>
+                <div class="flex-video">
+                    <iframe width="420" height="315" src="http://www.youtube.com/embed/lA07U9AzCzI" frameborder="0" allowfullscreen></iframe>
+                </div>
+                <a class="close-reveal-modal">&#215;</a>
+            </div>
+
+            <a class="padding-left" href="#" data-reveal-id="modalOne"><img src="img/thumbs/lA07U9AzCzI.jpg" alt=""></a>
+            <span class="padding-left video-title">Nathan and Rebecca find joy in giving back as volunteers at BFCS</span>
+
+
             <p>Black Family and Child Services has a variety of ways that you can make a difference as a volunteer. Please review the following options. If you would like to volunteer, we would like to hear from you.</p>
 
             <p style="background-color:#ddcadd;padding:25px;"><strong>Contact us to learn more:</strong><br>

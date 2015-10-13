@@ -55,32 +55,32 @@
 	  
 		<div id="modalOne" class="reveal-modal" data-reveal>
 			<div class="flex-video">
-				<iframe width="420" height="315" src="http://www.youtube.com/embed/T1QyDhLj5hU" frameborder="0" allowfullscreen></iframe>
+				<iframe width="420" height="315" src="http://www.youtube.com/embed/cDMusoo3VBc" frameborder="0" allowfullscreen></iframe>
 			</div>
 			<a class="close-reveal-modal">&#215;</a>
 		</div>
 		
-		<div id="modalTwo" class="reveal-modal" data-reveal>
+		<!--div id="modalTwo" class="reveal-modal" data-reveal>
 			<div class="flex-video">
 				<iframe width="420" height="315" src="http://www.youtube.com/embed/T1QyDhLj5hU" frameborder="0" allowfullscreen></iframe>
 			</div>
 			<a class="close-reveal-modal">&#215;</a>
-		</div>		
+		</div-->		
 	  	  
 	  <section class="service-info">
 	  	<div class="row">
 	  		<div class="large-6 columns show-for-large-up">
 	  			<h3>Adoption Services</h3>
-	  			<h4>You can make a profound difference in the life of a child who needs a stable home. </h4>
+	  			<h4>You can make a profound difference in the life of a child who needs a stable home.</h4>
 	  		</div>
 	  		<div class="large-3 small-6 columns service-video">
-	  			<a class="padding-left" href="#" data-reveal-id="modalOne"><img src="img/placeholder-four.jpg" alt=""></a>
-	  			<span class="padding-left video-title">Video Title</span>
+	  			<a class="padding-left" href="#" data-reveal-id="modalOne"><img src="img/thumbs/cDMusoo3VBc.jpg" alt=""></a>
+	  			<span class="padding-left video-title">Meet Dominique and Devin – sisters adopted into the same family</span>
 	  		</div>
-	  		<div class="large-3 small-6 columns service-video">
-	  			 <a class="padding-left" href="#" data-reveal-id="modalOne"><img src="img/placeholder-four.jpg" alt=""></a>
+	  		<!--div class="large-3 small-6 columns service-video">
+	  			 <a class="padding-left" href="#" data-reveal-id="modalTwo"><img src="img/placeholder-four.jpg" alt=""></a>
   				<span class="padding-left video-title">Video Title</span>
-	  		</div>
+	  		</div-->
 	  	</div>
 	  	<div class="row">
 	  		<div class="large-5 columns">

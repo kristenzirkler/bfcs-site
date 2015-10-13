@@ -55,17 +55,17 @@
 	  
 		<div id="modalOne" class="reveal-modal" data-reveal>
 			<div class="flex-video">
-				<iframe width="420" height="315" src="http://www.youtube.com/embed/T1QyDhLj5hU" frameborder="0" allowfullscreen></iframe>
+				<iframe width="420" height="315" src="http://www.youtube.com/embed/s5dOzP4GyYo" frameborder="0" allowfullscreen></iframe>
 			</div>
 			<a class="close-reveal-modal">&#215;</a>
 		</div>
 		
-		<div id="modalTwo" class="reveal-modal" data-reveal>
+		<!--div id="modalTwo" class="reveal-modal" data-reveal>
 			<div class="flex-video">
 				<iframe width="420" height="315" src="http://www.youtube.com/embed/T1QyDhLj5hU" frameborder="0" allowfullscreen></iframe>
 			</div>
 			<a class="close-reveal-modal">&#215;</a>
-		</div>		
+		</div-->		
 	  	  
 	  <section class="service-info">
 	  	<div class="row">
@@ -74,13 +74,13 @@
 	  			<h4>Need sub-headline</h4>
 	  		</div>
 	  		<div class="large-3 small-6 columns service-video">
-	  			<a class="padding-left" href="#" data-reveal-id="modalOne"><img src="img/placeholder-four.jpg" alt=""></a>
-	  			<span class="padding-left video-title">Video Title</span>
+	  			<a class="padding-left" href="#" data-reveal-id="modalOne"><img src="img/thumbs/s5dOzP4GyYo.jpg" alt=""></a>
+	  			<span class="padding-left video-title">Sisters Batiya and Vaniya model their new clothes in Miss Mary’s Closet</span>
 	  		</div>
-	  		<div class="large-3 small-6 columns service-video">
-	  			 <a class="padding-left" href="#" data-reveal-id="modalOne"><img src="img/placeholder-four.jpg" alt=""></a>
+	  		<!--div class="large-3 small-6 columns service-video">
+	  			 <a class="padding-left" href="#" data-reveal-id="modalTwo"><img src="img/thumbs/placeholder-four.jpg" alt=""></a>
   				<span class="padding-left video-title">Video Title</span>
-	  		</div>
+	  		</div-->
 	  	</div>
 	  	<div class="row">
 	  		<div class="large-5 columns">

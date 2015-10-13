@@ -55,17 +55,30 @@
 	  
 		<div id="modalOne" class="reveal-modal" data-reveal>
 			<div class="flex-video">
-				<iframe width="420" height="315" src="http://www.youtube.com/embed/T1QyDhLj5hU" frameborder="0" allowfullscreen></iframe>
+				<iframe width="420" height="315" src="http://www.youtube.com/embed/2c1thaf_m84" frameborder="0" allowfullscreen></iframe>
 			</div>
 			<a class="close-reveal-modal">&#215;</a>
 		</div>
 		
 		<div id="modalTwo" class="reveal-modal" data-reveal>
 			<div class="flex-video">
-				<iframe width="420" height="315" src="http://www.youtube.com/embed/T1QyDhLj5hU" frameborder="0" allowfullscreen></iframe>
+				<iframe width="420" height="315" src="http://www.youtube.com/embed/P6c0ivtm-rg" frameborder="0" allowfullscreen></iframe>
 			</div>
 			<a class="close-reveal-modal">&#215;</a>
-		</div>		
+		</div>	
+		<div id="modalThree" class="reveal-modal" data-reveal>
+			<div class="flex-video">
+				<iframe width="420" height="315" src="http://www.youtube.com/embed/4tRUZ8Mxrdc" frameborder="0" allowfullscreen></iframe>
+			</div>
+			<a class="close-reveal-modal">&#215;</a>
+		</div>
+		
+		<div id="modalFour" class="reveal-modal" data-reveal>
+			<div class="flex-video">
+				<iframe width="420" height="315" src="http://www.youtube.com/embed/rtaOTESBrlw" frameborder="0" allowfullscreen></iframe>
+			</div>
+			<a class="close-reveal-modal">&#215;</a>
+		</div>	
 	  	  
 	  <section class="service-info">
 	  	<div class="row">
@@ -74,12 +87,20 @@
 	  			<h4>Outpatient counseling services are available for children, adults and families</h4>
 	  		</div>
 	  		<div class="large-3 small-6 columns service-video">
-	  			<a class="padding-left" href="#" data-reveal-id="modalOne"><img src="img/placeholder-four.jpg" alt=""></a>
-	  			<span class="padding-left video-title">Video Title</span>
+	  			<a class="padding-left" href="#" data-reveal-id="modalOne"><img src="img/thumbs/2c1thaf_m84.jpg" alt=""></a>
+	  			<span class="padding-left video-title">Meet Brenda, an Adult Behavioral Health client</span>
 	  		</div>
 	  		<div class="large-3 small-6 columns service-video">
-	  			 <a class="padding-left" href="#" data-reveal-id="modalOne"><img src="img/placeholder-four.jpg" alt=""></a>
-  				<span class="padding-left video-title">Video Title</span>
+	  			 <a class="padding-left" href="#" data-reveal-id="modalTwo"><img src="img/thumbs/P6c0ivtm-rg.jpg" alt=""></a>
+  				<span class="padding-left video-title">Meet Diana and her children, clients of the Children’s Behavioral Health Program</span>
+	  		</div>
+	  		<div class="large-3 small-6 columns service-video">
+	  			<a class="padding-left" href="#" data-reveal-id="modalThree"><img src="img/thumbs/4tRUZ8Mxrdc.jpg" alt=""></a>
+	  			<span class="padding-left video-title">Nathan describes his experience in the Children’s Behavioral Health Program</span>
+	  		</div>
+	  		<div class="large-3 small-6 columns service-video">
+	  			 <a class="padding-left" href="#" data-reveal-id="modalFour"><img src="img/thumbs/rtaOTESBrlw.jpg" alt=""></a>
+  				<span class="padding-left video-title">Meet Tony and Alexus, Behavioral Health clients</span>
 	  		</div>
 	  	</div>
 	  	<div class="row">

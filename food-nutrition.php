@@ -55,17 +55,17 @@
 	  
 		<div id="modalOne" class="reveal-modal" data-reveal>
 			<div class="flex-video">
-				<iframe width="420" height="315" src="http://www.youtube.com/embed/T1QyDhLj5hU" frameborder="0" allowfullscreen></iframe>
+				<iframe width="420" height="315" src="http://www.youtube.com/embed/x3jz0E2tVog" frameborder="0" allowfullscreen></iframe>
 			</div>
 			<a class="close-reveal-modal">&#215;</a>
 		</div>
 		
-		<div id="modalTwo" class="reveal-modal" data-reveal>
+		<!--div id="modalTwo" class="reveal-modal" data-reveal>
 			<div class="flex-video">
 				<iframe width="420" height="315" src="http://www.youtube.com/embed/T1QyDhLj5hU" frameborder="0" allowfullscreen></iframe>
 			</div>
 			<a class="close-reveal-modal">&#215;</a>
-		</div>		
+		</div-->		
 	  	  
 	  <section class="service-info">
 	  	<div class="row">
@@ -74,13 +74,13 @@
 	  			<h4>Providing food boxes, infant supplies, cleaning supplies and training classes for families that qualify</h4>
 	  		</div>
 	  		<div class="large-3 small-6 columns service-video">
-	  			<a class="padding-left" href="#" data-reveal-id="modalOne"><img src="img/placeholder-four.jpg" alt=""></a>
-	  			<span class="padding-left video-title">Video Title</span>
+	  			<a class="padding-left" href="#" data-reveal-id="modalOne"><img src="img/thumbs/x3jz0E2tVog.jpg" alt=""></a>
+	  			<span class="padding-left video-title">Learn more about the BFCS Food & Nutrition Program</span>
 	  		</div>
-	  		<div class="large-3 small-6 columns service-video">
+	  		<!--div class="large-3 small-6 columns service-video">
 	  			 <a class="padding-left" href="#" data-reveal-id="modalOne"><img src="img/placeholder-four.jpg" alt=""></a>
   				<span class="padding-left video-title">Video Title</span>
-	  		</div>
+	  		</div-->
 	  	</div>
 	  	<div class="row">
             <div class="large-5 columns">

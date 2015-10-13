@@ -55,14 +55,28 @@
 	  
 		<div id="modalOne" class="reveal-modal" data-reveal>
 			<div class="flex-video">
-				<iframe width="420" height="315" src="http://www.youtube.com/embed/T1QyDhLj5hU" frameborder="0" allowfullscreen></iframe>
+				<iframe width="420" height="315" src="http://www.youtube.com/embed/9JY7ERsi9eo" frameborder="0" allowfullscreen></iframe>
 			</div>
 			<a class="close-reveal-modal">&#215;</a>
 		</div>
 		
 		<div id="modalTwo" class="reveal-modal" data-reveal>
 			<div class="flex-video">
-				<iframe width="420" height="315" src="http://www.youtube.com/embed/T1QyDhLj5hU" frameborder="0" allowfullscreen></iframe>
+				<iframe width="420" height="315" src="http://www.youtube.com/embed/Rx59Lj5FWEk" frameborder="0" allowfullscreen></iframe>
+			</div>
+			<a class="close-reveal-modal">&#215;</a>
+		</div>	 
+	  
+		<div id="modalThree" class="reveal-modal" data-reveal>
+			<div class="flex-video">
+				<iframe width="420" height="315" src="http://www.youtube.com/embed/DfoXQJOJs-0" frameborder="0" allowfullscreen></iframe>
+			</div>
+			<a class="close-reveal-modal">&#215;</a>
+		</div>
+		
+		<div id="modalFour" class="reveal-modal" data-reveal>
+			<div class="flex-video">
+				<iframe width="420" height="315" src="http://www.youtube.com/embed/RrZs8WCGAQ8" frameborder="0" allowfullscreen></iframe>
 			</div>
 			<a class="close-reveal-modal">&#215;</a>
 		</div>		
@@ -74,12 +88,21 @@
 	  			<h4>A safe, supervised program for children between the ages of 5 and 13</h4>
 	  		</div>
 	  		<div class="large-3 small-6 columns service-video">
-	  			<a class="padding-left" href="#" data-reveal-id="modalOne"><img src="img/placeholder-four.jpg" alt=""></a>
-	  			<span class="padding-left video-title">Video Title</span>
+	  			<a class="padding-left" href="#" data-reveal-id="modalOne"><img src="img/thumbs/9JY7ERsi9eo.jpg" alt=""></a>
+	  			<span class="padding-left video-title">Jesse copes with his parents’ breakup.</span>
 	  		</div>
 	  		<div class="large-3 small-6 columns service-video">
-	  			 <a class="padding-left" href="#" data-reveal-id="modalOne"><img src="img/placeholder-four.jpg" alt=""></a>
-  				<span class="padding-left video-title">Video Title</span>
+	  			 <a class="padding-left" href="#" data-reveal-id="modalTwo"><img src="img/thumbs/Rx59Lj5FWEk.jpg" alt=""></a>
+  				<span class="padding-left video-title">Jamie is in the Right Track After School Program in Phoenix, Arizona
+</span>
+	  		</div>
+	  		<div class="large-3 small-6 large-offset-6 columns service-video">
+	  			<a class="padding-left" href="#" data-reveal-id="modalThree"><img src="img/thumbs/DfoXQJOJs-0.jpg" alt=""></a>
+	  			<span class="padding-left video-title">Corin is a student in the Right Track After School Program in Phoenix, Arizona</span>
+	  		</div>
+	  		<div class="large-3 small-6 columns service-video">
+	  			 <a class="padding-left" href="#" data-reveal-id="modalFour"><img src="img/thumbs/RrZs8WCGAQ8.jpg" alt=""></a>
+  				<span class="padding-left video-title">Elvira is a student in the Right Track After School Program in Phoenix, Arizona</span>
 	  		</div>
 	  	</div>
 	  	<div class="row">
