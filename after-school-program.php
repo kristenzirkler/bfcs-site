@@ -22,8 +22,8 @@
   
   	  <div class="row service-info hide-for-large-up">
 	  		<div class="large-6 columns">
-	  			<h3>After School Program</h3>
-	  			<h4>Need a sub-headline here</h4>
+	  			<h3>Right Track After School Program</h3>
+	  			<h4>A safe, supervised program for children between the ages of 5 and 13</h4>
 	  		</div>
 	  </div>
 

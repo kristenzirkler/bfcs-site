@@ -22,7 +22,6 @@
     <div class="row">
         <div class="large-12 columns">
             <h4>Volunteer At</h4>
-
             <h5>Black Family and Child Services of Arizona</h5>
         </div>
     </div>

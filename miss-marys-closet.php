@@ -23,7 +23,8 @@
    	  <div class="row service-info hide-for-large-up">
 	  		<div class="large-6 columns">
 	  			<h3>Miss Mary's Closet</h3>
-	  			<h4>Need sub-headline</h4>
+	  			<h4>New clothing is available for children enrolled in any BFCS program.</h4>
+	  			<h4>Miss Mary’s Closet always welcomes donations of new, unworn clothing for children from newborns to age 18.</h4>
 	  		</div>
 	  </div>
   
@@ -71,7 +72,8 @@
 	  	<div class="row">
 	  		<div class="large-6 columns show-for-large-up">
 	  			<h3>Miss Mary's Closet</h3>
-	  			<h4>Need sub-headline</h4>
+	  			<h4>New clothing is available for children enrolled in any BFCS program.</h4>
+	  			<h4>Miss Mary’s Closet always welcomes donations of new, unworn clothing for children from newborns to age 18.</h4>
 	  		</div>
 	  		<div class="large-3 small-6 columns service-video">
 	  			<a class="padding-left" href="#" data-reveal-id="modalOne"><img src="img/thumbs/s5dOzP4GyYo.jpg" alt=""></a>
