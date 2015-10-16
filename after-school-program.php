@@ -95,7 +95,11 @@
 	  			 <a class="padding-left" href="#" data-reveal-id="modalTwo"><img src="img/thumbs/Rx59Lj5FWEk.jpg" alt=""></a>
   				<div class="padding-left video-title">Jamie is in the Right Track After School Program in Phoenix, Arizona</div>
 	  		</div>
-	  		<div class="large-3 small-6 large-offset-6 columns service-video">
+	  		<div class="large-6 columns show-for-large-up">
+	  			<p>The Right Track After School Program provides elementary and middle school children with a safe, supervised environment during after school hours between 3 p.m. and 6:30 p.m. on weekdays, and a range of activities that integrate  educational support with character and social development.</p>
+	  			<p>As community-based resources for supervised after school activity for children continue to diminish, this essential program provides a variety of benefits to student participants and their families, including: improved school achievement and attendance, stronger motivation to learn and higher levels of self-esteem.</p>
+	  		</div>
+	  		<div class="large-3 small-6 columns service-video">
 	  			<a class="padding-left" href="#" data-reveal-id="modalThree"><img src="img/thumbs/DfoXQJOJs-0.jpg" alt=""></a>
 	  			<div class="padding-left video-title">Corin is a student in the Right Track After School Program in Phoenix, Arizona</div>
 	  		</div>
@@ -106,8 +110,8 @@
 	  	</div>
 	  	<div class="row">
 	  		<div class="large-5 columns">
-	  			<p>The Right Track After School Program provides elementary and middle school children with a safe, supervised environment during after school hours between 3 p.m. and 6:30 p.m. on weekdays, and a range of activities that integrate  educational support with character and social development.</p>
-	  			<p>As community-based resources for supervised after school activity for children continue to diminish, this essential program provides a variety of benefits to student participants and their families, including: improved school achievement and attendance, stronger motivation to learn and higher levels of self-esteem.</p>
+		  		<div class="hide-for-large-up"><p>The Right Track After School Program provides elementary and middle school children with a safe, supervised environment during after school hours between 3 p.m. and 6:30 p.m. on weekdays, and a range of activities that integrate  educational support with character and social development.</p>
+	  			<p>As community-based resources for supervised after school activity for children continue to diminish, this essential program provides a variety of benefits to student participants and their families, including: improved school achievement and attendance, stronger motivation to learn and higher levels of self-esteem.</p></div>
 	  			<p>The Right Track After School program is free and was developed to provide support to working families that need assistance with supervising, tutoring and mentoring their children.</p>
 	  		</div>
 	  		<div class="large-5 columns">

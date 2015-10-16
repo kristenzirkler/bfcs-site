@@ -94,7 +94,12 @@
 	  			 <a class="padding-left" href="#" data-reveal-id="modalTwo"><img src="img/thumbs/P6c0ivtm-rg.jpg" alt=""></a>
   				<div class="padding-left video-title">Meet Diana and her children, clients of the Children’s Behavioral Health Program</div>
 	  		</div>
-	  		<div class="large-3 small-6 large-offset-6 columns service-video">
+	  		<div class="large-6 columns show-for-large-up">
+	  			<p><em>Child and Family Counseling</em></p>
+	  			<p>BFCS Child and Family Counseling is a family-centered, strength-based program promoting positive child development and emotional well being, and strengthening the family's ability to provide a safe, stable and secure home environment.</p>
+	  			<p>Child and Family Counseling provides a full range of outpatient behavioral health services to children under 18 and their families. Services are tailored to meet individual needs and overcome a wide range of behavioral, emotional or relationship problems, while promoting healthy family dynamics.</p>
+	  		</div>
+	  		<div class="large-3 small-6 columns service-video">
 	  			<a class="padding-left" href="#" data-reveal-id="modalThree"><img src="img/thumbs/4tRUZ8Mxrdc.jpg" alt=""></a>
 	  			<div class="padding-left video-title">Nathan describes his experience in the Children’s Behavioral Health Program</div>
 	  		</div>
@@ -105,9 +110,9 @@
 	  	</div>
 	  	<div class="row">
 	  		<div class="large-5 columns">
-	  			<p><em>Child and Family Counseling</em></p>
+	  			<div class="hide-for-large-up"><p><em>Child and Family Counseling</em></p>
 	  			<p>BFCS Child and Family Counseling is a family-centered, strength-based program promoting positive child development and emotional well being, and strengthening the family's ability to provide a safe, stable and secure home environment.</p>
-	  			<p>Child and Family Counseling provides a full range of outpatient behavioral health services to children under 18 and their families. Services are tailored to meet individual needs and overcome a wide range of behavioral, emotional or relationship problems, while promoting healthy family dynamics.</p>
+	  			<p>Child and Family Counseling provides a full range of outpatient behavioral health services to children under 18 and their families. Services are tailored to meet individual needs and overcome a wide range of behavioral, emotional or relationship problems, while promoting healthy family dynamics.</p></div>
 	  			<p>Service planning – selecting treatment goals and planning an intervention – and decision making is done within the context of a Child and Family Team consisting of family members and other supporters, professionals and non-professionals who are involved in the child's life and are concerned with the child’s well being.</p>
 	  			<p>The Child and Family Team provides continuous support and guidance in the delivery of services during the implementation of the service plan.</p>
 	  			<p>Services available through the Child and Family Counseling program include:</p>

@@ -94,7 +94,11 @@
 	  			 <a class="padding-left" href="#" data-reveal-id="modalTwo"><img src="img/thumbs/-HN-XBSw99M.jpg" alt=""></a>
   				<div class="padding-left video-title">Dawn explains her experience at BFCS</div>
 	  		</div>
-	  		<div class="large-3 small-6 large-offset-6 columns service-video">
+	  		<div class="large-6 columns show-for-large-up">
+	  			<p>Counseling for substance abuse focuses on stopping or reducing drug use, adherence to a recovery plan, and addressing related areas of impaired functioning – such as employment status, illegal activity, and conflicts in family and social relationships.</p>
+	  			<p>Since people with substance abuse problems often have a co-occurring mental disorder, an integrated approach is used for screening, assessment and subsequent interventions that are consistent with diagnosis, and match levels of functioning and care.</p>
+	  		</div>
+	  		<div class="large-3 small-6 columns service-video">
 	  			<a class="padding-left" href="#" data-reveal-id="modalThree"><img src="img/thumbs/l9RjvHfrqp8.jpg" alt=""></a>
 	  			<div class="padding-left video-title">Meet Ted, an Adult Substance Abuse client</div>
 	  		</div>
@@ -105,8 +109,8 @@
 	  	</div>
 	  	<div class="row">
 	  		<div class="large-5 columns">
-	  			<p>Counseling for substance abuse focuses on stopping or reducing drug use, adherence to a recovery plan, and addressing related areas of impaired functioning – such as employment status, illegal activity, and conflicts in family and social relationships.</p>
-	  			<p>Since people with substance abuse problems often have a co-occurring mental disorder, an integrated approach is used for screening, assessment and subsequent interventions that are consistent with diagnosis, and match levels of functioning and care.</p>
+	  			<div class="hide-for-large-up"><p>Counseling for substance abuse focuses on stopping or reducing drug use, adherence to a recovery plan, and addressing related areas of impaired functioning – such as employment status, illegal activity, and conflicts in family and social relationships.</p>
+	  			<p>Since people with substance abuse problems often have a co-occurring mental disorder, an integrated approach is used for screening, assessment and subsequent interventions that are consistent with diagnosis, and match levels of functioning and care.</p></div>
 	  		</div>
 	  		<div class="large-5 columns">
 	  			<p>Some essential features of treatment may include:</p>
