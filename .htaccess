@@ -1,0 +1,19 @@
+Options -Indexes
+ErrorDocument 404 /customerrors/404.html
+
+Redirect 301 /volunteer.html  http://www.bfcsfamily.org/volunteer.php
+Redirect 301 /staff.html  http://www.bfcsfamily.org/staff.php
+Redirect 301 /clients.html  http://www.bfcsfamily.org/our-stories.php
+Redirect 301 /nutrition.html  http://www.bfcsfamily.org/food-nutrition.php
+Redirect 301 /fostercare.html  http://www.bfcsfamily.org/parent-aide.php
+Redirect 301 /adoption.html  http://www.bfcsfamily.org/adoption.php
+Redirect 301 /family_support.html  http://www.bfcsfamily.org/family-enhancement.php
+Redirect 301 /behavior_health.html  http://www.bfcsfamily.org/behavioral-health.php
+Redirect 301 /therapeutic_fostercare.html  http://www.bfcsfamily.org/therapeutic-foster-care.php
+Redirect 301 /family_enhancement.html  http://www.bfcsfamily.org/family-enhancement.php
+Redirect 301 /donation.html  http://www.bfcsfamily.org/donate.php
+Redirect 301 /mary_closet.html  http://www.bfcsfamily.org/miss-marys-closet.php
+Redirect 301 /employment.html  http://www.bfcsfamily.org/employment-opportunities.php
+Redirect 301 /mission.html  http://www.bfcsfamily.org/about.php
+Redirect 301 /contact.html  http://www.bfcsfamily.org/contact.php
+Redirect 301 /meeting_schedule.html  http://www.bfcsfamily.org/meeting-schedule.php
