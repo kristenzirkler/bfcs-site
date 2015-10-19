@@ -97,6 +97,19 @@
 	  	</div>
 	</div>	 
     
+		<div id="modalOne" class="reveal-modal" data-reveal>
+			<div class="flex-video">
+				<iframe width="420" height="315" src="http://www.youtube.com/embed/m9KiHBzGn9A" frameborder="0" allowfullscreen></iframe>
+			</div>
+			<a class="close-reveal-modal">&#215;</a>
+		</div>
+		
+		<div id="modalTwo" class="reveal-modal" data-reveal>
+			<div class="flex-video">
+				<iframe width="420" height="315" src="http://www.youtube.com/embed/9JY7ERsi9eo" frameborder="0" allowfullscreen></iframe>
+			</div>
+			<a class="close-reveal-modal">&#215;</a>
+		</div>	
     
   <div class="row intro">
   	<div class="large-5 columns">
@@ -105,11 +118,19 @@
   		<p>Serving children and families of all ethnic backgrounds since 1984, BFCS is licensed by the 
   		State of Arizona to provide Behavioral Health Services and the agency holds a Child Welfare 
   		Placing License to provide adoption and foster care services.</p>
-  	</div>
-  	<div class="large-5 columns left large-offset-1">
   		<p>The generous support of hundreds of area businesses, organizations, civic leaders, 
   		parents, educators, clergy, private citizens and others have made it possible for the agency 
   		to grow and serve tens of thousands of children and families.</p>
+  	</div>
+  	<div class="large-5 columns left large-offset-1">
+  		<div class="large-6 small-12 columns service-video">
+  			<a class="padding-left" href="#" data-reveal-id="modalOne"><img src="img/thumbs/m9KiHBzGn9A.jpg" alt=""></a>
+  			<div class="padding-left video-title">Zanyah’s battle with low self-esteem</div>
+  		</div>
+  		<div class="large-6 small-12 columns service-video">
+  			 <a class="padding-left" href="#" data-reveal-id="modalTwo"><img src="img/thumbs/9JY7ERsi9eo.jpg" alt=""></a>
+				<div class="padding-left video-title">Jesse copes with his parents’ breakup</div>
+  		</div>
   		<p>Today, and every day, the licensed professionals, staff and volunteers at BFCS are working 
   		diligently to fulfill the agency’s five-fold mission.</p>
   	</div>
