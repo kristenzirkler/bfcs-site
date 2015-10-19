@@ -35,9 +35,9 @@
 	  		<div class="large-3 columns">
 	  			<div class="service-choose-button">
 	  			<a href="contact.php">
-	  				<h2>I would like<br> to adopt<span>&#9654;</span></h2>
+	  				<h2>I would like<br> to foster a child<span>&#9654;</span></h2>
 	  				<div class="show-for-medium-up">
-	  					<p>Contact a BFCS Adoption specialist to begin the process of adopting a child.</p>
+	  					<p>Contact a BFCS Foster specialist to begin the process.</p>
 	  				</div>
 	  			</a>
 	  			</div>
@@ -45,7 +45,7 @@
 	  			<a href="donate.php">
 	  				<h2>I want to donate <span>&#9654;</span></h2>
 	  				<div class="show-for-medium-up">
-		  				<p>I would like to make a financial contribution or donate my time to support the BFCS Adoption Services.</p>
+		  				<p>I would like to make a financial contribution or donate my time to support the BFCS Foster Care Services.</p>
 	  				</div>
 	  			</a>
 	  			</div>

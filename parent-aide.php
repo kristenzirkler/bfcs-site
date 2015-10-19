@@ -37,7 +37,7 @@
 	  				<a href="contact.php">
 	  				<h2>I would like<br> to foster a child<span>&#9654;</span></h2>
 	  				<div class="show-for-medium-up">
-	  					<p>Contact a BFCS Foster specialist to begin the process of adopting a child.</p>
+	  					<p>Contact a BFCS Foster specialist to begin the process.</p>
 	  				</div>
 	  				</a>
 	  			</div>

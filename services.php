@@ -31,31 +31,27 @@
         <div class="large-5 columns">
 
             <h4 style="margin-bottom:-20px;"><a href="after-school-program.php" style="color:#986899;">After School Program</a></h4><br>
-            <em>Need a sub-headline here.</em>
+            <em>A safe, supervised program for children between the ages of 5 and 13.</em>
             <hr>
-            <h4 style="margin-bottom:-20px;"><a href="adoption.php" style="color:#986899;">Adoption</a></h4><br>
-            <em>You can make a profound difference in the life of a child who needs a stable home.</em>
-            <hr>
-            <h4 style="margin-bottom:-20px;"><a href="parent-aide.php" style="color:#986899;">Foster Care</a></h4><br>
-            <em>Need a sub-headline here.</em>
-            <hr>
+            <!--h4 style="margin-bottom:-20px;"><a href="adoption.php" style="color:#986899;">Adoption</a></h4><br>
+            <em>You can make a profound difference in the life of a child who needs a stable home.</em-->
             <h4 style="margin-bottom:-20px;"><a href="therapeutic-foster-care.php" style="color:#986899;">Therapeutic Foster Care</a></h4><br>
-            <em>Need a sub-headline here.</em>
+            <em>Advanced training available to foster parents of children and teens with intensive emotional or behavioral issues.</em>
             <hr>
             <h4 style="margin-bottom:-20px;"><a href="behavioral-health.php" style="color:#986899;">Behavioral Health</a></h4><br>
-            <em>Need a sub-headline here.</em>
+            <em>Outpatient counseling services are available for children, adults and families.</em>
             <hr>
             <h4 style="margin-bottom:-20px;"><a href="substance-abuse.php" style="color:#986899;">Substance Abuse</a></h4><br>
-            <em>Need a sub-headline here.</em>
+            <em>Outpatient counseling services are available for adults.</em>
             <hr>
             <h4 style="margin-bottom:-20px;"><a href="family-enhancement.php" style="color:#986899;">Family Enhancement</a></h4><br>
-            <em>Need a sub-headline here.</em>
+            <em>Services that help families stay together.</em>
             <hr>
             <h4 style="margin-bottom:-20px;"><a href="miss-marys-closet.php" style="color:#986899;">Miss Mary's Closet</a></h4><br>
-            <em>Need a sub-headline here.</em>
+            <em>New clothing is available for children enrolled in any BFCS program.</em>
             <hr>
             <h4 style="margin-bottom:-20px;"><a href="food-nutrition.php" style="color:#986899;">Food &amp; Nutrition</a></h4><br>
-            <em>Providing food boxes, infant supplies, cleaning supplies and training classes for families that qualify</em>
+            <em>Providing food boxes, infant supplies, cleaning supplies and training classes for families that qualify.</em>
             <hr>
         </div>
 

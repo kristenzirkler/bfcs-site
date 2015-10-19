@@ -61,14 +61,14 @@
 		  		<img src="img/placeholder-two.jpg" alt="" style="height: 135px">  	
 		  	</div>
 		  	<div class="large-5 columns">
-		  		<h3>Urgent Need: Donate to right choice after school program</h3>
+		  		<h3>Urgent Need: Donate to right track after school program</h3>
 		  		<p>Your donation will make it possible for dozens of children between the ages of 5-13 to attend this much-needed supervised after school program.</p>
 		  	</div>
 		  	<div class="large-3 columns">
 		  		<div class="donate-button show-for-large-up">
 			  		<a href="donate.php">
 				  		<div class="triangle-right"></div>
-				  		<h3>Donate to<br> Right Choice<br> Program Now</h3>
+				  		<h3>Donate to<br> Right Track<br> Program Now</h3>
 			  		</a>
 		  		</div>
 		  	</div>

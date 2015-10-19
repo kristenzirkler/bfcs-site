@@ -37,7 +37,7 @@
 	  			<a href="contact.php">
 	  				<h2>I would like<br> services<span>&#9654;</span></h2>
 	  				<div class="show-for-medium-up">
-	  					<p>Contact a BFCS Adoption specialist to begin the process.</p>
+	  					<p>Contact BFCS to begin the process.</p>
 	  				</div>
 	  			</a>
 	  			</div>

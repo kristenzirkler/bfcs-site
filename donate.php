@@ -78,11 +78,10 @@
   		1522 East Southern Avenue<br/>
   		Phoenix, Arizona 85040
   		</p>
-  		<p><strong>Charitable Tax Credits</strong><br/>
+  		<p style="background-color:#ddcadd;padding:25px;"><strong>Charitable Tax Credits</strong><br/>
   		As an Arizona resident, you may qualify to receive a charitable tax credit from your state income tax for a contribution made to Black Family and Child Services.
-  		</p>
-  		<p>Known as the "Credit for Donations made to Qualifying Charitable Organizations" your donation would reduce, dollar-for-dollar, the amount of state income tax owed in the same amount of your charitable donation to Black Family and Child Services.</p>
-  		<p>For more information, <a href="https://www.azdor.gov/taxcredits/qualifyingcharitableorganizations.aspx">click here</a>, or contact your personal tax advisor.
+  		<br><br>Known as the "Credit for Donations made to Qualifying Charitable Organizations" your donation would reduce, dollar-for-dollar, the amount of state income tax owed in the same amount of your charitable donation to Black Family and Child Services.
+  		<br><br>For more information, <a href="https://www.azdor.gov/taxcredits/qualifyingcharitableorganizations.aspx">click here</a>, or contact your personal tax advisor.
 	  	</p>
   	</div>
   </div> 
