@@ -29,10 +29,10 @@
   
 	  <section class="service-choose">
 	  	<div class="row">
-	  		<div class="large-9 columns show-for-large-up">
+	  		<div class="large-9 medium-9 columns show-for-medium-up">
 	  			<img src="img/substance-abuse-39085176.jpg" alt="substance-abuse-39085176"/>
 	  		</div>
-	  		<div class="large-3 columns">
+	  		<div class="large-3 medium-3 columns">
 	  			<div class="service-choose-button">
 	  			<a href="contact.php">
 	  				<h2>I would like<br> help<span>&#9654;</span></h2>
