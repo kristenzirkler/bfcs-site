@@ -26,7 +26,7 @@
   <section class="seek-or-help">
 	  <div class="row">
 	  	<div class="large-12 columns">
-	  		<img src="img/home-banner-holiday-2015.jpg" alt="Adopt a Family for the Holiday" />
+	  		<img src="img/home-banner-12-2015.jpg" alt="Adopt a Family for the Holiday" />
 	  		<!--  temp hiding slider
 	  		<ul class="bxslider">
 	  			<li><img src="img/01-home-8144140.jpg" alt="01-home-8144140" /></li>
