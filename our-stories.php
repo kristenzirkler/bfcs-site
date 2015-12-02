@@ -29,9 +29,14 @@
 
     <div class="row intro">
         <div class="large-5 columns">
+
+            <h4>BFCS Open House Showcases New Renovations and Technology</h4>
+            <p>For those who hadn't seen the BFCS Family Service Center in a while, a late October 2015 evening was full of exciting surprises, as the agency hosted a Community Open House event. Agency leaders, staff and even some of the students at the Right Track After School Program proudly conducted tours of the newly updated facilities. Guests were led through freshly carpeted and repainted hallways to view state of the art technology in refurbished classrooms and meeting rooms, while enjoying a variety of gourmet foods throughout the evening.</p>
+            <iframe width="100%" height="550" src="OpenHouse_Slideshow" frameBorder="0"></iframe>
+            <br>
             <h4>Arizona Cardinals All-Pro Larry Fitzgerald Hosts Christmas Party for 250 Children at BFCS</h4>
             <p>Two-time Pro Bowl wide receiver Larry Fitzgerald of the Arizona Cardinals made the 2008 holiday season a happier time of year for 250 children at the Black Family and Child Services office building in December. As host of a "Very Merry Larry Fitzgerald Christmas" party, Larry generously provided gifts and a fully-catered meal to the children and families in attendance. Also appearing were Cardinals Mascot, Big Red, and a magician who entertained the children until Larry magically appeared, signed autographs and posed for pictures with the kids.</p>
-            <iframe width="100%" height="900" src="Fitz_Slideshow" frameBorder="0"></iframe>
+            <iframe width="100%" height="550" src="Fitz_Slideshow" frameBorder="0"></iframe>
  
        </div>
 

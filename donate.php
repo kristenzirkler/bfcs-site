@@ -22,7 +22,35 @@
   </header>	  
 	  	<?php include ("inc/navigation.html"); ?>
 	  	<!--END ROW-->
+
+  <div class="row">
+      <div class="large-12 columns">
+        <h4>Receive a dollar-for-dollar Arizona Tax Credit</h4>
+        <h5>to reduce or eliminate your State Income Tax</h5>
+      </div>
+  </div>   
     
+    
+  <div class="row intro">
+    <div class="large-5 columns">
+      <p><b>Charitable Tax Credits are available for donations made before December 31</b></p>
+      <p>As an Arizona resident, you may qualify to receive a dollar-for-dollar charitable tax credit from your state income tax for a contribution made to Black Family and Child Services of Arizona. </p>
+      <p>You must make your donation on or before December 31 for the donation to be counted in the current tax year.</p>
+      <p>You have two options for claiming your tax credit. When filing your state income tax, just complete Arizona Department of Revenue Form 321 and list the dollar amount of your voluntary donation to Black Family and Child Services of Arizona. </p>
+      <p>Option 1 – Make a donation known as the “Credit for Donations made to Qualifying Foster Care Charitable Organizations” and an individual may claim up to $400 in the Married Filing Separate category, or a couple may claim up to $800 in the Married Filing Joint category.</p>
+      <p>Option 2 – Make a donation known as the “Credit for Donations made to Qualifying Charitable Organizations” and an individual may claim up to $200 in the Married Filing Separate category, or a couple may claim up to $400 in the Married Filing Joint category.</p>
+      <p>For more information, <a href="https://www.azdor.gov/taxcredits/qualifyingcharitableorganizations.aspx">click here</a>, or contact your personal tax advisor.</p>
+    </div>
+    <div class="large-5 columns left large-offset-1">
+      <p style="background-color:#ddcadd;padding:25px;"><strong>Charitable Tax Credits</strong><br/>
+      As an Arizona resident, you may qualify to receive a charitable tax credit from your state income tax for a contribution made to Black Family and Child Services.
+      <br><br>Known as the "Credit for Donations made to Qualifying Charitable Organizations" your donation would reduce, dollar-for-dollar, the amount of state income tax owed in the same amount of your charitable donation to Black Family and Child Services.
+      <br><br>For more information, <a href="https://www.azdor.gov/taxcredits/qualifyingcharitableorganizations.aspx">click here</a>, or contact your personal tax advisor.
+      </p>
+    </div>
+  </div> 
+
+<!--
 	<div class="row">
 	  	<div class="large-12 columns">
 		  	<h4>Make a Donation To</h4>
@@ -85,7 +113,7 @@
 	  	</p>
   	</div>
   </div> 
-  
+-->
   	<!--END ROW-->
   	<?php include ("inc/footer.html"); ?>
     <?php include ("inc/js.html"); ?>
