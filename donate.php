@@ -25,8 +25,8 @@
 
   <div class="row">
       <div class="large-12 columns">
-        <h4>Receive a dollar-for-dollar Arizona Tax Credit</h4>
-        <h5>to reduce or eliminate your State Income Tax</h5>
+        <h4>Make a Donation To</h4>
+        <h5>BLACK FAMILY AND CHILD SERVICES OF ARIZONA</h5>
       </div>
   </div>    
 
@@ -63,23 +63,22 @@
   		</p>
       <p><strong>Donate when you shop on Amazon.com!</strong><br/>
       Whenever you make an online purchase on Amazon.com, a percentage of your purchase can be donated to BFCS! Just go to <a href="http://smile.amazon.com">smile.amazon.com</a> and you will have the same selections available to any Amazon.com shopper, but you can select Black Family and Child Services from a drop-down menu of non-profit agencies that will receive a percentage of your purchase at no additional cost to you. Thank you!</p>
+      <p style="background-color:#ddcadd;padding:25px;"><strong>Volunteer your time or services:</strong><br/>
+      <a href="mailto:info@bfcsfamily.org?subject=I want to help.">Email us</a> and let us know how you would like to get involved or call (602) 243-1773<br/><br/>
+      <a href="volunteer.php">Learn more about volunteer opportunities</a>
+      </p>
+      <p><strong>Donation of clothing, books or working computers:</strong><br/>
+      Bring or ship your donation to our offices at:</p>
+      <p>
+      Black Family and Child Services of Arizona<br/>
+      1522 East Southern Avenue<br/>
+      Phoenix, Arizona 85040
+      </p>
 
   	</div>
   	<div class="large-5 columns left large-offset-1">
-  		<p style="background-color:#ddcadd;padding:25px;"><strong>Volunteer your time or services:</strong><br/>
-  		<a href="mailto:info@bfcsfamily.org?subject=I want to help.">Email us</a> and let us know how you would like to get involved or call (602) 243-1773<br/><br/>
-  		<a href="volunteer.php">Learn more about volunteer opportunities</a>
-  		</p>
-  		<p><strong>Donation of clothing, books or working computers:</strong><br/>
-  		Bring or ship your donation to our offices at:</p>
-  		<p>
-  		Black Family and Child Services of Arizona<br/>
-  		1522 East Southern Avenue<br/>
-  		Phoenix, Arizona 85040
-  		</p>
   		<p style="background-color:#ddcadd;padding:25px;">
-<span style="font-size:18px;">Receive a dollar-for-dollar Arizona Tax Credit
-<br>to reduce or eliminate your State Income Tax</span><br><br>
+<span style="font-size:24px;font-weight: bold;">Receive a dollar-for-dollar Arizona Tax Credit to reduce or eliminate your State Income Tax</span><br><br>
         <strong>Charitable Tax Credits are available for donations made before December 31</strong><br /><br />
       As an Arizona resident, you may qualify to receive a dollar-for-dollar charitable tax credit from your state income tax for a contribution made to Black Family and Child Services of Arizona. <br /><br />
       You must make your donation on or before December 31 for the donation to be counted in the current tax year.<br /><br />
