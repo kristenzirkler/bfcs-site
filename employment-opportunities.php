@@ -29,6 +29,8 @@
 
     <div class="row intro">
         <div class="large-5 columns">
+            <p>BFCS is an equal opportunity employer committed to creating a culturally-diverse workforce and does not discriminate based on race, ethnicity, religion, gender, age, national origin, disability, sexual orientation and Veteran status. BFCS also encourages bilingual staff to apply.</p>
+
             <p>Black Family and Child Services is seeking qualified professionals for a variety of positions. Please send a resume to: <a href="mailto:msimpson@bfcsfamily.org">msimpson@bfcsfamily.org</a> or apply in person at:</p>
 
             <p>Black Family and Child Services of Arizona<br>

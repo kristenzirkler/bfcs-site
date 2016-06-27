@@ -42,6 +42,9 @@
 
                 <li>Developing working partnerships with public institutions, private corporations, community organizations, agencies and individuals to ensure that children and youths have the opportunity, encouragement and support to become responsible, productive and self-sufficient adults</li>
             </ul>
+
+            <p>The diverse governance, leadership and staff at BFCS are committed to providing quality and culturally competent services to diverse communities of all races that include: ethnicity, disability, religion, gender, sexual orientation and national origin.</p>
+            <p>BFCS is also committed to providing interpretation and translation services in preferred languages when requested by service recipients.</p>
         </div>
 
         <div class="large-5 columns left large-offset-1">
