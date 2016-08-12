@@ -40,12 +40,6 @@
             <p><strong>Contract Children/Substance Abuse Counselor</strong><br>
             To provide a minimum of 25 hours of behavioral/mental health services to children and youths and substance abuse counseling to adults. MA/MSW with two years experience.</p>
 
-            <p><strong>Foster Care/Adoption Worker</strong><br>
-            Complete Foster Care and Adoption studies. Must have BA or MSW with two years experience in Child Welfare/Behavioral Health. PS-MSPP Certification. Excellent writing and assessment skills needed.</p>
-
-            <p><strong>Administrative Assistant</strong><br>
-            Must be able to work multiple clerical tasks. Three years experience in customer service, with good writing and verbal skills. Type 65 WPM, knowledge of Microsoft Office software, set up and maintain filing system. Must have AA/BA.</p>
-
             <p><strong>Home-Based Family Support Worker (Part-time Position)</strong><br>
             MA with three years experience in Social Services. Provide Home-Based Services to families in need of Case Management and support services. Transportation with insurance and Fingerprint Clearance from the Arizona Department of Public Safety.</p>
         </div>
