@@ -77,16 +77,6 @@
       <hr>
   	</div>
   	<div class="large-5 columns left large-offset-1">
-      <img src="img/staff/staff_tim_martinson.jpg" alt="Tim Martinson" class="th" style="float:left;margin-right:20px;width:133px;height=200px;" />
-      <h4>Tim Martinson, LMSW</h4>
-      <h6>Director of Behavioral Health Services</h6>
-      <p>Tim is responsible for oversight of all clinical operations for the child and family program and the adult general mental health and substance abuse programs.</p>
-      <p>It is Tim's responsibility that the programs stay in compliance with all licensing and regulatory standards, to ensure staff follows agency policies and procedures, manage program budgets and implement quality improvement policies.</p>
-      <p>Tim has been working in the behavioral health field in Arizona for more than 32 years, joining Black Family and Child Services in 1995. He has remained at BFCS because of his passion for the agency mission: "Improving the lives of children and families."</p>
-      <p>Prior to joining BFCS, Tim worked at Florence Crittention Services outpatient and residential programs for 11 years. He has held a Behavioral Health Professional license from the Arizona Board of Behavioral Health as a Licensed Master Social Worker since 1991.</p>
-      <p>Tim holds a double bachelor’s degree in counseling and behavior modification from St. Cloud State University in Minnesota. He holds a Master’s of Social Work degree from Arizona State University.</p>
-      
-      <hr>
       <img src="img/staff/Tez_Bekele.jpg" alt="Tezerash Bekele" class="th" style="float:left;margin-right:20px;width:133px;height=200px;" />
       <h4>Tezerash Bekele</h4>
       <h6>Director of Quality and Performance Improvement</h6>
