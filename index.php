@@ -26,7 +26,7 @@
   <section class="seek-or-help">
 	  <div class="row">
 	  	<div class="large-12 columns">
-	  		<a href="donate.php"><img src="img/home-banner-2016-06.jpg" alt="Donate" /></a>
+	  		<a href="donate.php"><img src="img/home-banner-2016-10-taxes.jpg" alt="Donate" /></a>
 	  		<!--  temp hiding slider
 	  		<ul class="bxslider">
 	  			<li><img src="img/01-home-8144140.jpg" alt="01-home-8144140" /></li>

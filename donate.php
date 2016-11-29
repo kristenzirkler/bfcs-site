@@ -52,6 +52,10 @@
 			<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" style="width:1px;height=1px;">
 		</form>
   		</p>
+      <p style="background-color:#8ed1c1;padding:25px;">
+        <strong>Make it possible for children to experience the joys of the holiday season — Adopt-A-Family for the holidays!</strong><br><br/> Please consider providing gifts of food, clothing, toys or household items. You can choose the size of family or the amount you can donate. Download the Sponsor Information sheet to learn more.<br><br>
+        <a href="/docs/BFCSAdoptAFamilySponsorInfo10-14-16.doc.pdf" target="_blank" style="display: inline-block; line-height: 40px; padding: 0 15px; color: #fff; background: #175448;text-transform: uppercase;font-family: 'oswaldbold';text-decoration: none;">Download Sponsor Information</a>
+      </p>
   		<p><strong>Donation through the U.S. Mail</strong><br/>
   		Make check or money order out to:<br/>
   		Black Family and Child Services of Arizona

@@ -37,11 +37,16 @@
             1522 East Southern Avenue<br>
             Phoenix, Arizona 85040</p><img src="img/counselor_kids.jpg" alt="Contract Children/Substance Abuse Counselor" class="th" style="margin-bottom:20px;width:248px;height=161px;">
 
-            <p><strong>Contract Children/Substance Abuse Counselor</strong><br>
-            To provide a minimum of 25 hours of behavioral/mental health services to children and youths and substance abuse counseling to adults. MA/MSW with two years experience.</p>
+            <p><strong>Contract Children Therapist</strong><br>
+                This position provides a minimum of 35 hours of behavioral/mental health services per week as an Independent Contractor to children and youths. Requirements: MA/MSW with a minimum of 2 years experience. Must be able to work with a diverse population. Call (602) 243-1773 for information. 
+            </p>
 
-            <p><strong>Home-Based Family Support Worker (Part-time Position)</strong><br>
-            MA with three years experience in Social Services. Provide Home-Based Services to families in need of Case Management and support services. Transportation with insurance and Fingerprint Clearance from the Arizona Department of Public Safety.</p>
+            <p><strong>Home-based Behavioral Coach</strong><br>
+            This position provides a minimum of 30-35 hours of Home and School-based services per week as an Independent Contractor to children and families in need of Behavioral Health Services. Must be able to work with a diverse population. Requirements: MA/MSW with a minimum of 2 years of experience. Call (602) 243-1773 for information. </p>
+
+            <p><strong>Contract General Mental Health Substance Abuse Therapist</strong><br>
+            This position provides a minimum of 25 hours of substance abuse counseling per week as an Independent Contractor to adults. Requirements: BA with a minimum of 2 years of experience. Must be able to work with a diverse population. Call (602) 243-1773 for information. </p>
+
         </div>
 
         <div class="large-5 columns left large-offset-1">
