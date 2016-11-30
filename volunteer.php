@@ -82,16 +82,10 @@
             <p><strong>Donate Your Company’s Products or Services</strong><br>
             The cost of raising foster children often exceeds the reimbursement provided by the State of Arizona for items like clothing, food, day care, and birthday or holiday gifts. Foster parents sincerely appreciate the generosity of companies and organizations that provide free products or discounts on the purchase of essential products.</p>
 
-            <p><strong>Become a Foster Mentor/Angel</strong><br>
-            BFCS is seeking a one-year commitment from adults who are willing to provide both financial support and time to spend mentoring a foster child.</p>
-
             <p><strong>Adopt-A-Family for the Holidays</strong><br>
             This annual program enables supporters to fulfill the holiday wishes of an economically disadvantaged family.</p>
 
             <p>BFCS clients submit a Wish List to the agency in November that lists personal items, clothing items and toys that children would like to receive for Christmas. Most often, children are in single-parent households and donors can choose how large a family to support based on their ability to give.</p>
-
-            <p><strong>Library Volunteers</strong><br>
-            BFCS has a Family Resource Center community library in which volunteers can organize and catalog books for both children and adults, or read aloud to children who are clients of the agency.</p>
 
             <p>Day and early evening shifts can be tailored to individual volunteers’ schedules. We ask that volunteers be willing to commit to at least eight hours of volunteer service per month.</p>
         </div>

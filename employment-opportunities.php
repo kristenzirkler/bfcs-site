@@ -38,14 +38,16 @@
             Phoenix, Arizona 85040</p><img src="img/counselor_kids.jpg" alt="Contract Children/Substance Abuse Counselor" class="th" style="margin-bottom:20px;width:248px;height=161px;">
 
             <p><strong>Contract Children Therapist</strong><br>
-                This position provides a minimum of 35 hours of behavioral/mental health services per week as an Independent Contractor to children and youths. Requirements: MA/MSW with a minimum of 2 years experience. Must be able to work with a diverse population. Call (602) 243-1773 for information. 
-            </p>
+            This position provides a minimum of 35 hours of behavioral/mental health services per week as an Independent Contractor to children and youths. Requirements: MA/MSW with a minimum of 2 years experience. Must be able to work with a diverse population. Call (602) 243-1773 for information.</p>
 
             <p><strong>Home-based Behavioral Coach</strong><br>
             This position provides a minimum of 30-35 hours of Home and School-based services per week as an Independent Contractor to children and families in need of Behavioral Health Services. Must be able to work with a diverse population. Requirements: MA/MSW with a minimum of 2 years of experience. Call (602) 243-1773 for information. </p>
 
-            <p><strong>Contract General Mental Health Substance Abuse Therapist</strong><br>
-            This position provides a minimum of 25 hours of substance abuse counseling per week as an Independent Contractor to adults. Requirements: BA with a minimum of 2 years of experience. Must be able to work with a diverse population. Call (602) 243-1773 for information. </p>
+            <p><strong>Contract General Mental Health and Substance Abuse Therapist</strong><br>
+            This postion provides a minimum of 30-35 hours of general mental health and substance abuse counseling per week to adults as an independent contractor. Requirements: MA/MSW with a minimum of 2 years of experience. Must be able to work with a diverse population. Call (602) 243-1773 for information.</p>
+
+            <p><strong>After School Instructional Aide</strong><br>
+            This is a part-time position for a candidate who has experience working with children in a daycare, pre-school, Head Start, after school program or a recreational program for children. Minimum requirements: 60 hours of college credits or an AA degree in early childhood with 1 year of job experience. Work schedule will be between 1:30 p.m. and 6:30 p.m. on school days. DSP fingerprint and drug screenings are mandatory. Call (602) 243-1773 for information.</p>
 
         </div>
 
