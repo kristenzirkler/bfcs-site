@@ -34,24 +34,15 @@
   	<div class="large-5 columns">
   		<p>Black Family and Child Services welcomes and appreciates your tax-deductible contributions of cash and new infant and children’s clothing. If you would like to make a donation you can do so in one or more of the following ways:</p>
   		<p><strong>Online Cash Donation through PayPal</strong></p>
-  		<p>            
-  		<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
-			<input type="hidden" name="cmd" value="_donations">
-			<input type="hidden" name="business" value="Gclee5@aol.com">
-			<input type="hidden" name="item_name" value="Black Family and Child Services, Inc.">
-			<input type="hidden" name="item_number" value="0001">
-			<input type="hidden" name="no_shipping" value="0">
-			<input type="hidden" name="return" value="http://www.bfcsfamily.org/donate_thanks.htm">
-			<input type="hidden" name="cancel_return" value="http://www.bfcsfamily.org/donate_cancel.htm">
-			<input type="hidden" name="no_note" value="1">
-			<input type="hidden" name="currency_code" value="USD">
-			<input type="hidden" name="tax" value="0">
-			<input type="hidden" name="lc" value="US">
-			<input type="hidden" name="bn" value="PP-DonationsBF">
-			<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
-			<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" style="width:1px;height=1px;">
-		</form>
-  		</p>
+      <p>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <input type="hidden" name="cmd" value="_s-xclick">
+        <input type="hidden" name="hosted_button_id" value="YS2GSCEJUYT6A">
+        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+        <img alt="" border="0" style="width:1px;height:1px;" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        </form>
+      </p>
+
       <p style="background-color:#8ed1c1;padding:25px;">
         <strong>Make it possible for children to experience the joys of the holiday season — Adopt-A-Family for the holidays!</strong><br><br/> Please consider providing gifts of food, clothing, toys or household items. You can choose the size of family or the amount you can donate. Download the Sponsor Information sheet to learn more.<br><br>
         <a href="/docs/BFCSAdoptAFamilySponsorInfo10-25-16.doc.pdf" target="_blank" style="display: inline-block; line-height: 40px; padding: 0 15px; color: #fff; background: #175448;text-transform: uppercase;font-family: 'oswaldbold';text-decoration: none;">Download Sponsor Information</a>
