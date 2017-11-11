@@ -129,6 +129,25 @@ CORE PURPLE
 	padding: 9% 0 2% 0;
     height: 135px;
 }
+#core-purple .cta-button {
+	display: inline-block;
+	color: #fff;
+	background: #341c34;
+	padding: 2px 15px 0;
+    height: 38px;
+    line-height: 38px;
+    text-transform: uppercase;
+    font-family: 'oswaldbold';
+    text-decoration: none;
+}
+#core-purple .callout-box {
+	background-color: #ddcadd;
+	padding:25px;
+}
+#core-purple .callout-box h3 {
+	font-size: 24px;
+    font-weight: bold;
+}
 #core-purple .donate h3 {
 	color: #5d2f5e;
 }
@@ -623,9 +642,11 @@ NAVIGATION
 	width: 100%;
 	text-align: center;
 	overflow: hidden;
+	margin: 0 auto 10px;
+	margin-bottom: 10px;
 }
 .primary-nav li {
-	float: left;
+	/*float: left;*/
 	display: table-cell;
 	padding: 0 1%;
 }
@@ -849,7 +870,33 @@ footer .copyright {
 	margin-top: 3%;
 	padding-left: 15px;
 }
-
+footer .social-icons {
+	margin-top: 15px;
+}
+footer .social-icons li {
+	display: inline-block;
+	margin-right: 10px;
+}
+footer .social-icons a {
+	border-radius: 3px;
+	background-color: #986899;
+} 
+/* social icons */
+.social-icons a {
+	background-image: url(../img/social-icons.png);
+	background-size: 80px 40px;
+	background-repeat: no-repeat;
+	display: inline-block;
+	text-indent: -5000px;
+	width: 40px;
+	height: 40px;
+}
+.social-icons a.facebook {
+	background-position: 0 0;
+}
+.social-icons a.twitter {
+	background-position: -40px 0;
+}
 @media only screen and (max-width: 40em)  {
 	footer {
 		padding-left: 5%;

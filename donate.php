@@ -56,8 +56,8 @@
   		1522 East Southern Avenue<br/>
   		Phoenix, Arizona 85040
   		</p>
-      <p><strong>Donate when you shop on Amazon.com!</strong><br/>
-      Whenever you make an online purchase on Amazon.com, a percentage of your purchase can be donated to BFCS! Just go to <a href="http://smile.amazon.com">smile.amazon.com</a> and you will have the same selections available to any Amazon.com shopper, but you can select Black Family and Child Services from a drop-down menu of non-profit agencies that will receive a percentage of your purchase at no additional cost to you. Thank you!</p>
+      <!--p><strong>Donate when you shop on Amazon.com!</strong><br/>
+      Whenever you make an online purchase on Amazon.com, a percentage of your purchase can be donated to BFCS! Just go to <a href="http://smile.amazon.com">smile.amazon.com</a> and you will have the same selections available to any Amazon.com shopper, but you can select Black Family and Child Services from a drop-down menu of non-profit agencies that will receive a percentage of your purchase at no additional cost to you. Thank you!</p-->
       <p style="background-color:#ddcadd;padding:25px;"><strong>Volunteer your time or services:</strong><br/>
       <a href="mailto:info@bfcsfamily.org?subject=I want to help.">Email us</a> and let us know how you would like to get involved or call (602) 243-1773<br/><br/>
       <a href="volunteer.php">Learn more about volunteer opportunities</a>
@@ -71,6 +71,13 @@
 
   	</div>
   	<div class="large-5 columns left large-offset-1">
+      <div class="callout-box">
+        <h3>Donate when you shop on Amazon.com!</h3>
+        <p>Whenever you make an online purchase on Amazon.com, a percentage of your purchase can be donated to BFCS! Just go to <a href="http://smile.amazon.com" target="_blank">smile.amazon.com</a> and you will have the same selections available to any Amazon.com shopper, but you can select Black Family and Child Services from a drop-down menu of non-profit agencies that will receive a percentage of your purchase at no additional cost to you. Thank you!</p>
+
+        <p><a href="http://smile.amazon.com" target="_blank" class="cta-button">Start Shopping</a></p>
+      </div>
+      <!--
   		<p style="background-color:#ddcadd;padding:25px;">
 <span style="font-size:24px;font-weight: bold;">Receive a dollar-for-dollar Arizona Tax Credit to reduce or eliminate your State Income Tax</span><br><br>
       <strong>Charitable Tax Credits for 2016 are available for donations made before April 15, 2017</strong><br /><br />
@@ -86,6 +93,7 @@
       
       For more information, <a href="https://www.azdor.gov/taxcredits/qualifyingcharitableorganizations.aspx">click here</a>, or contact your personal tax advisor.
 	  	</p>
+    -->
   	</div>
   </div> 
 

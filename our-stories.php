@@ -26,10 +26,13 @@
             <h5>Black Family and Child Services of Arizona</h5>
         </div>
     </div>
-
     <div class="row intro">
         <div class="large-5 columns">
-
+            <h4>Hundreds Attend 2017 BFCS Family Carnival</h4>
+            <p>On May 11, a crowd of more than 400 hundred children and parents attended the free, annual BFCS 2017 Spring Carnival to celebrate family togetherness. Highlights included a Petting Zoo, Bumper Cars, Ferris Wheel Bounce House, Free Photos and a Balloon Fun House. Guests enjoyed free hot dogs, snow cones, cotton candy, popcorn and plenty of goodies. Special thanks go to the volunteers from Synchrony and Mayo Clinic who helped to make the Carnival a wonderful experience for all!<br><br>Enjoy the photos and a video of BFCS CEO Mary Black in the Bumper Cars!</p>
+            <iframe width="420" height="315" src="http://www.youtube.com/embed/TThgC9n3DNI" frameborder="0" allowfullscreen></iframe>
+            <iframe width="100%" height="620" src="2017Carnival_Slideshow" frameBorder="0"></iframe>
+            <br>
             <h4>BFCS Open House Showcases New Renovations and Technology</h4>
             <p>For those who hadn't seen the BFCS Family Service Center in a while, a late October 2015 evening was full of exciting surprises, as the agency hosted a Community Open House event. Agency leaders, staff and even some of the students at the Right Track After School Program proudly conducted tours of the newly updated facilities. Guests were led through freshly carpeted and repainted hallways to view state of the art technology in refurbished classrooms and meeting rooms, while enjoying a variety of gourmet foods throughout the evening.</p>
             <iframe width="100%" height="600" src="OpenHouse_Slideshow" frameBorder="0"></iframe>

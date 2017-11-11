@@ -90,17 +90,9 @@
       <p>A graduate of the University of Texas at El Paso, where he received a BBA in Business Administration, Oscar lives in Phoenix, Arizona with his wife and two children.</p>
       
       <hr>
-      <h4>Sristi Nath, DO</h4>
-      <h6>Consulting Psychiatrist</h6>
-      <p>Dr. Nath has practiced psychiatry for more than 13 years. She is board certified in both adult, as well as child and adolescent psychiatry, joining Black Family and Child Services in 2009 to work with the child and adolescent populations. She also maintains a practice at her office in Scottsdale, Arizona.</p>
-      <p>Dr. Nath works as an assistant professor at Midwestern University for the Arizona College of Osteopathic Medicine. She strongly believes in a comprehensive approach to patients, including education, therapy, and social support with any medication treatment plan she may recommend.</p>
-      <p>She also endorses healthy living, incorporating diet and exercise as part of a long-term plan for treatment and prevention. As a result, she has taught fitness instruction and studies nutrition as hobbies.</p>
-      <p>Dr. Nath completed her bachelors in psychology at Stanford University, her medical degree at Midwestern University, and her residency and fellowship at University of Hawaii.</p>
-
-      <!--hr>
       <h4>Alyssa K. Foote</h4>
-      <h6>Case Management Program Supervisor</h6>
-      <p>Alyssa oversees the agency's clinical programs. She has been a member of the BFCS team since 2013 and has also worked for Southwest Human Development and Bright Horizons Family Solutions. Alyssa earned a master's degree in professional counseling from Ottawa University.</p-->
+      <h6>Case Management Manager</h6>
+      <!--p>Alyssa oversees the agency's clinical programs. She has been a member of the BFCS team since 2013 and has also worked for Southwest Human Development and Bright Horizons Family Solutions. Alyssa earned a master's degree in professional counseling from Ottawa University.</p-->
       
       <hr>
       <h4>Tim Martinson, LMSW</h4>
@@ -114,6 +106,9 @@
 
       <p>Tim holds a double bachelor's degree in counseling and behavior modification from St. Cloud State University in Minnesota. He holds a Master's of Social Work degree from Arizona State University. </p>
 
+      <hr>
+      <h4>Joaquin Bermudez, D.O.</h4>
+      <h6>Consulting Psychiatrist</h6>
       <hr>
   	</div>
   </div> 

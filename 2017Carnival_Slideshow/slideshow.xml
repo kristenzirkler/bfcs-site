@@ -1,0 +1,41 @@
+<AlbumBook ver='1.5' title='' description='' firstAlbum='0' width='400' height='267' showThumbnails='true' thumbWidth='80' thumbHeight='60' autoStart='true' allowClick='true' clickAction='_blank' playerName='Player - Black (SPRY/HTML)'>
+	<Album title='pics' description='' path='pics' hasThumb='false' thumbSrc='' hasBg='false' bgSrc='' bgScale='0' interval='5' useTransition='true' transType='Fade' transTime='2' firstImage='0' dispSequence='0'>
+		<Slide src='Carnival-1.jpg' caption='' width='400' height='267' thumbWidth='80' thumbHeight='53'/>
+		<Slide src='Carnival-2.jpg' caption='' width='400' height='267' thumbWidth='80' thumbHeight='53'/>
+		<Slide src='Carnival-3.jpg' caption='' width='267' height='400' thumbWidth='53' thumbHeight='80'/>
+		<Slide src='Carnival-4.jpg' caption='' width='267' height='400' thumbWidth='53' thumbHeight='80'/>
+		<Slide src='Carnival-5.jpg' caption='' width='400' height='267' thumbWidth='80' thumbHeight='53'/>
+		<Slide src='Carnival-6.jpg' caption='' width='400' height='267' thumbWidth='80' thumbHeight='53'/>
+		<Slide src='Carnival-7.jpg' caption='' width='267' height='400' thumbWidth='53' thumbHeight='80'/>
+		<Slide src='Carnival-8.jpg' caption='' width='400' height='267' thumbWidth='80' thumbHeight='53'/>
+		<Slide src='Carnival-9.jpg' caption='' width='267' height='400' thumbWidth='53' thumbHeight='80'/>
+		<Slide src='Carnival-10.jpg' caption='' width='400' height='267' thumbWidth='80' thumbHeight='53'/>
+		<Slide src='Carnival-11.jpg' caption='' width='400' height='267' thumbWidth='80' thumbHeight='53'/>
+		<Slide src='Carnival-12.jpg' caption='' width='400' height='267' thumbWidth='80' thumbHeight='53'/>
+		<Slide src='Carnival-13.jpg' caption='' width='400' height='267' thumbWidth='80' thumbHeight='53'/>
+		<Slide src='Carnival-14.jpg' caption='' width='267' height='400' thumbWidth='53' thumbHeight='80'/>
+		<Slide src='Carnival-15.jpg' caption='' width='400' height='267' thumbWidth='80' thumbHeight='53'/>
+		<Slide src='Carnival-16.jpg' caption='' width='400' height='267' thumbWidth='80' thumbHeight='53'/>
+		<Slide src='Carnival-17.jpg' caption='' width='400' height='267' thumbWidth='80' thumbHeight='53'/>
+		<Slide src='Carnival-18.jpg' caption='' width='400' height='267' thumbWidth='80' thumbHeight='53'/>
+		<Slide src='Carnival-19.jpg' caption='' width='400' height='267' thumbWidth='80' thumbHeight='53'/>
+		<Slide src='Carnival-20.jpg' caption='' width='400' height='267' thumbWidth='80' thumbHeight='53'/>
+		<Slide src='Carnival-21.jpg' caption='' width='400' height='267' thumbWidth='80' thumbHeight='53'/>
+		<Slide src='Carnival-22.jpg' caption='' width='267' height='400' thumbWidth='53' thumbHeight='80'/>
+		<Slide src='Carnival-23.jpg' caption='' width='400' height='267' thumbWidth='80' thumbHeight='53'/>
+		<Slide src='Carnival-24.jpg' caption='' width='400' height='267' thumbWidth='80' thumbHeight='53'/>
+		<Slide src='Carnival-25.jpg' caption='' width='400' height='267' thumbWidth='80' thumbHeight='53'/>
+		<Slide src='Carnival-26.jpg' caption='' width='400' height='267' thumbWidth='80' thumbHeight='53'/>
+		<Slide src='Carnival-27.jpg' caption='' width='267' height='400' thumbWidth='53' thumbHeight='80'/>
+		<Slide src='Carnival-28.jpg' caption='' width='267' height='400' thumbWidth='53' thumbHeight='80'/>
+		<Slide src='Carnival-29.jpg' caption='' width='400' height='267' thumbWidth='80' thumbHeight='53'/>
+		<Slide src='Carnival-30.jpg' caption='' width='400' height='267' thumbWidth='80' thumbHeight='53'/>
+		<Slide src='Carnival-31.jpg' caption='' width='400' height='267' thumbWidth='80' thumbHeight='53'/>
+		<Slide src='Carnival-32.jpg' caption='' width='267' height='400' thumbWidth='53' thumbHeight='80'/>
+		<Slide src='Carnival-33.jpg' caption='' width='400' height='267' thumbWidth='80' thumbHeight='53'/>
+		<Slide src='Carnival-34.jpg' caption='' width='400' height='267' thumbWidth='80' thumbHeight='53'/>
+		<Slide src='Carnival-35.jpg' caption='' width='400' height='267' thumbWidth='80' thumbHeight='53'/>
+		<Slide src='Carnival-36.jpg' caption='' width='400' height='267' thumbWidth='80' thumbHeight='53'/>
+		<Slide src='Carnival-37.jpg' caption='' width='267' height='400' thumbWidth='53' thumbHeight='80'/>
+	</Album>
+</AlbumBook>

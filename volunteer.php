@@ -73,12 +73,12 @@
             <a href="#" data-reveal-id="modalOne" style="display: block; width: 212px;"><img src="img/thumbs/lA07U9AzCzI.jpg" alt=""></a>
             <span class="video-title">Nathan and Rebecca find joy in giving back as volunteers at BFCS</span>
             </p>
-            
+            <!--
             <p><strong>Donate New Computers</strong><br>
             The BFCS Computer Lab is in dire need of updating 12 outdated computer work stations that are used for both child and adult computer skills training classes.</p>
 
             <p>We need your support through donations of new computer equipment or cash for the purpose of purchasing new computer equipment.</p>
-
+-->
             <p><strong>Donate Your Company’s Products or Services</strong><br>
             The cost of raising foster children often exceeds the reimbursement provided by the State of Arizona for items like clothing, food, day care, and birthday or holiday gifts. Foster parents sincerely appreciate the generosity of companies and organizations that provide free products or discounts on the purchase of essential products.</p>
 

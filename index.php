@@ -26,7 +26,7 @@
   <section class="seek-or-help">
 	  <div class="row">
 	  	<div class="large-12 columns">
-	  		<a href="donate.php"><img src="img/home-banner-2016-10-taxes.jpg" alt="Donate" /></a>
+	  		<a href="donate.php"><img src="img/home-banner-2017-08-donate.jpg" alt="Donate" /></a>
 	  		<!--  temp hiding slider
 	  		<ul class="bxslider">
 	  			<li><img src="img/01-home-8144140.jpg" alt="01-home-8144140" /></li>
@@ -58,17 +58,17 @@
   <div class="row">
   	<div class="donate">
 		  	<div class="large-3 columns show-for-large-up">		  		
-		  		<img src="img/placeholder-two.jpg" alt="" style="height: 135px">  	
+		  		<img src="img/placeholder-two.jpg" alt="Donate to Black Child and Family Services" style="height: 135px">  	
 		  	</div>
 		  	<div class="large-5 columns">
-		  		<h3>Urgent Need: Donate to right track after school program</h3>
-		  		<p>Your donation will make it possible for dozens of children between the ages of 5-13 to attend this much-needed supervised after school program.</p>
+		  		<h3>DONATE WHEN YOU SHOP!</h3>
+		  		<p>When you make any online purchase from <a href="https://smile.amazon.com" target="_blank">smile.amazon.com</a>, a percentage of your purchase can be donated to BFCS!</p>
 		  	</div>
 		  	<div class="large-3 columns">
 		  		<div class="donate-button show-for-large-up">
-			  		<a href="donate.php">
+			  		<a href="https://smile.amazon.com">
 				  		<div class="triangle-right"></div>
-				  		<h3>Donate to<br> Right Track<br> Program Now</h3>
+				  		<h3>Click Here<br>to Learn More<br>at Amazon.com</h3>
 			  		</a>
 		  		</div>
 		  	</div>
